@@ -7,7 +7,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki 
 - [GitHub Desktop](http://windows.github.com/)
 - [Sublime Text Editor](http://www.sublimetext.com/)
 - [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
-  (klucz publiczny, klucz prywatny; generowanie gluczy)
+  (klucz publiczny, klucz prywatny; generowanie kluczy)
 
 ### Zaczynamy
 
