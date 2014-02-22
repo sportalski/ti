@@ -15,7 +15,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki 
 
 * 3–4 — strona do swojego konta na serwerze GitHub, np.
   http://wbzyl.github.io/
-  oraz strona korzystającą z bibliotek [Leaflet](http://leafletjs.com/)
+  oraz strona korzystająca z bibliotek [Leaflet](http://leafletjs.com/)
   i [localForage](https://github.com/mozilla/localForage).
   Przygotować pokaz slajdów w [Reveal.js](http://lab.hakim.se/reveal-js/)
   opisujący jak przygotowywano tę stronę.
