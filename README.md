@@ -54,6 +54,8 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 
 3\. JavaScript:
 
+- Marijn Haverbeke, [Eloquent JavaScript](http://eloquentjavascript.net/) –
+  A Modern Introduction to Programming
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
