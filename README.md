@@ -60,3 +60,5 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 4\. [Meteor](https://www.meteor.com/).
+
+- [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
