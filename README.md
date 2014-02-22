@@ -9,6 +9,22 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki 
 - [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
   (klucz publiczny, klucz prywatny; generowanie kluczy)
 
+### Zaliczenie
+
+* 3 – repozytorium ze stronami wpisanymi w notacji
+  [Markdown](http://daringfireball.net/projects/markdown/syntax)
+  lub [reStructuredText](http://en.wikipedia.org/wiki/ReStructuredText)
+* 4 – strona do swojego konta na serwerze GitHub, np.
+  http://wbzyl.github.io/
+* 5 – strony do repozytorium przygotowane za pomocą narzędzia
+  [Jekyll](http://jekyllrb.com/). JTZ –
+  [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages)
+
+### Egzamin
+
+Napisać aplikację korzystając z narzędzia [Meteor](https://www.meteor.com/).
+
+
 ### Zaczynamy
 
 1\. Git:
@@ -22,6 +38,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki 
 
 2\. HTML & CSS:
 
+- [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
   wprowadzenie do HTML i CSS
 
