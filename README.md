@@ -34,16 +34,16 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 
 1\. Git:
 
-- Zakładamy konto na serwerze GitHub.
-- Tworzymy pierwsze repozytorium na GitHub.
+- Zakładamy konto na serwerze GitHub
+- Tworzymy pierwsze repozytorium na GitHub
 - [Mastering Markdown](http://daringfireball.net/projects/markdown/syntax)
   - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/) +
     [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
   - Dodajemy obrazki
   - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
-- Moja strona WWW na serwerze GitHub i strony repozytoriów.
+- Moja strona WWW na serwerze GitHub i strony repozytoriów
 - [Reveal.js](https://github.com/hakimel/reveal.js) –
-  a framework for easily creating beautiful presentations using HTML.
+  a framework for easily creating beautiful presentations using HTML
 
 2\. HTML & CSS:
 
