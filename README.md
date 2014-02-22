@@ -2,6 +2,7 @@
 
 Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki Internetowe”.
 
+
 ### Użyteczne narzędzia
 
 - [GitHub Desktop](http://windows.github.com/)
@@ -9,16 +10,20 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki 
 - [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
   (klucz publiczny, klucz prywatny; generowanie kluczy)
 
+
 ### Zaliczenie
 
-* 3 – repozytorium ze stronami wpisanymi w notacji
-  [Markdown](http://daringfireball.net/projects/markdown/syntax)
-  lub [reStructuredText](http://en.wikipedia.org/wiki/ReStructuredText)
-* 4 – strona do swojego konta na serwerze GitHub, np.
+* 3 – strona do swojego konta na serwerze GitHub, np.
   http://wbzyl.github.io/
-* 5 – strony do repozytorium przygotowane za pomocą narzędzia
+* 4 – strona korzystająca z [Leaflet](http://leafletjs.com/)
+  i [localForage](https://github.com/mozilla/localForage).
+  Przygotować pokaz slajdów w [Reveal.js](http://lab.hakim.se/reveal-js/)
+  opisujący jak przygotowywano tę stronę.
+* 5 – blog do swojego repozytorium przygotowany za pomocą narzędzia
   [Jekyll](http://jekyllrb.com/). JTZ –
-  [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages)
+  [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages).
+  Pokaz slajdów zamienić na wpis do tego bloga.
+
 
 ### Egzamin
 
@@ -37,6 +42,8 @@ Napisać aplikację korzystając z narzędzia [Meteor](https://www.meteor.com/)
   - Dodajemy obrazki
   - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
 - Moja strona WWW na serwerze GitHub i strony repozytoriów.
+- [Reveal.js](https://github.com/hakimel/reveal.js) –
+  a framework for easily creating beautiful presentations using HTML.
 
 2\. HTML & CSS:
 
