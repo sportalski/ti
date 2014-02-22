@@ -27,7 +27,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki 
 
 ### Egzamin
 
-Napisać aplikację korzystając z narzędzia [Meteor](https://www.meteor.com/).
+Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.com/).
 
 
 ### Zaczynamy
