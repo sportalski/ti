@@ -13,13 +13,13 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki 
 
 ### Zaliczenie
 
-* 3 – strona do swojego konta na serwerze GitHub, np.
+* 3–4 — strona do swojego konta na serwerze GitHub, np.
   http://wbzyl.github.io/
-* 4 – strona korzystająca z [Leaflet](http://leafletjs.com/)
+  oraz stronę korzystającą z bibliotek [Leaflet](http://leafletjs.com/)
   i [localForage](https://github.com/mozilla/localForage).
   Przygotować pokaz slajdów w [Reveal.js](http://lab.hakim.se/reveal-js/)
   opisujący jak przygotowywano tę stronę.
-* 5 – blog do swojego repozytorium przygotowany za pomocą narzędzia
+* 5 — blog do swojego repozytorium przygotowany za pomocą narzędzia
   [Jekyll](http://jekyllrb.com/). JTZ –
   [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages).
   Pokaz slajdów zamienić na wpis do tego bloga.
