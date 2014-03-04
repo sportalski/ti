@@ -15,7 +15,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. Massalska Emilia
 1. Kalarus Marcin
 1. Hinz Karol
-1. Pastuszka Anna
+1. [Pastuszka Anna][a]
 1. Perkowski Maciej
 1. Szykuła Artur
 1. Turzyński Michał
@@ -93,3 +93,5 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 4\. [Meteor](https://www.meteor.com/).
 
 - [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
+
+[a]:http://apastuszka.github.io/wizytowka
