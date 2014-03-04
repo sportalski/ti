@@ -72,6 +72,9 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 
 2\. HTML & CSS:
 
+- [Polymer](http://www.polymer-project.org/) – building blocks for the web:
+  * [prism](http://prismjs.com/)
+  * [prism-js](https://github.com/addyosmani/prism-js)
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [JS Bin](http://jsbin.com/) – collaborative JavaScript Debugging
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
