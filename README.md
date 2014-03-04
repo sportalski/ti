@@ -74,8 +74,8 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 
 - [Polymer](http://www.polymer-project.org/) – building blocks for the web:
   * [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) –
-  defining new elements in HTML; 
-  [zobacz też](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
+    defining new elements in HTML; 
+    zobacz też [MDN](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
   * [prism](http://prismjs.com/)
   * [prism-js](https://github.com/addyosmani/prism-js)
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
