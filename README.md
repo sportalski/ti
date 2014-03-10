@@ -74,7 +74,7 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 
 - [Polymer](http://www.polymer-project.org/) – building blocks for the web:
   * [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) –
-    defining new elements in HTML; 
+    defining new elements in HTML;
     zobacz też [MDN](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
   * [prism](http://prismjs.com/)
   * [prism-js](https://github.com/addyosmani/prism-js)
@@ -90,9 +90,12 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-4\. [Meteor](https://www.meteor.com/).
+4\. [Meteor](https://www.meteor.com/):
 
 - [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
+- [Explore Meteor with EventedMind](https://www.eventedmind.com/) – screencasty
+- [Discover Meteor](http://book.discovermeteor.com/) – książka
+
 
 [a]:http://apastuszka.github.io/wizytowka
 [b]:http://wdenejko.github.com
