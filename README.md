@@ -82,6 +82,8 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
     zobacz też [MDN](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
   * [prism](http://prismjs.com/)
   * [prism-js](https://github.com/addyosmani/prism-js)
+  * [google-maps](https://github.com/eduardolundgren/google-maps-element)
+- [X-Tag](http://www.x-tags.org/) – Web Components Custom Element Polylib (Mozilla):
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [JS Bin](http://jsbin.com/) – collaborative JavaScript Debugging
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
@@ -91,6 +93,7 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 
 - Marijn Haverbeke, [Eloquent JavaScript](http://eloquentjavascript.net/) –
   A Modern Introduction to Programming
+
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
