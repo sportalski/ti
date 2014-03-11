@@ -98,6 +98,8 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
   A Modern Introduction to Programming
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
+
 4\. [Meteor](https://www.meteor.com/):
 
 - [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
