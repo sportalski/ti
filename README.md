@@ -11,7 +11,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. Pająkowski Adrian
 1. Olszer Krzysztof
 1. Mroczkowski Jacek
-1. Michalski Mateusz
+1. Michalski Mateusz[c]
 1. Massalska Emilia
 1. Kalarus Marcin
 1. Hinz Karol
@@ -103,3 +103,4 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 
 [a]:http://apastuszka.github.io/wizytowka
 [b]:http://wdenejko.github.com
+[c]:http://matismatis93.github.io/techint
