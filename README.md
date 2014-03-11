@@ -47,7 +47,10 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 * 5 — blog do swojego repozytorium przygotowany za pomocą narzędzia
   [Jekyll](http://jekyllrb.com/). JTZ –
   [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages).
-  Pokaz slajdów zamienić na wpis do tego bloga.
+  Pokaz slajdów zamienić na wpis do tego bloga.<br>
+  Można użyć innego narzędzia do generowania bloga, na przykład
+  [metalsmith](https://github.com/segmentio/metalsmith).
+  Zob. też [mini-review of static site generators](https://github.com/skx/static-site-generators).
 
 
 ### Egzamin
