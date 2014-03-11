@@ -11,7 +11,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. Pająkowski Adrian
 1. Olszer Krzysztof
 1. Mroczkowski Jacek
-1. Michalski Mateusz[c]
+1. [Michalski Mateusz][c]
 1. Massalska Emilia
 1. Kalarus Marcin
 1. Hinz Karol
