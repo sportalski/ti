@@ -75,6 +75,8 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 
 2\. HTML & CSS:
 
+- Eric Bidelman.
+  [Web Components resource guide](https://gist.github.com/ebidel/6314025).
 - [Rob Dodson](http://robdodson.me/blog/):
   * [Exploring HTML Imports](http://robdodson.me/blog/2013/08/20/exploring-html-imports/)
   * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
