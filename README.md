@@ -92,6 +92,11 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
   * [google-maps](https://github.com/eduardolundgren/google-maps-element)
 - [X-Tag](http://www.x-tags.org/) – Web Components Custom Element Polylib (Mozilla):
 
+W3C & MDN:
+
+- [Cascading Style Sheets](http://www.w3.org/Style/CSS/)
+- [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
+
 Różne rzeczy:
 
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
