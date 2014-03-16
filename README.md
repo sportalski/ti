@@ -91,6 +91,8 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
   * [prism-js](https://github.com/addyosmani/prism-js)
   * [google-maps](https://github.com/eduardolundgren/google-maps-element)
 - [X-Tag](http://www.x-tags.org/) – Web Components Custom Element Polylib (Mozilla):
+- [Custom Elements](http://customelements.io/) –
+  a Web Components Gallery for modern web applications
 
 W3C & MDN:
 
