@@ -6,7 +6,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. Całus Maciej
 1. Duchna Przemysław
 1. Falęcki Jacek
-1. Franckiewicz Tomasz
+1. Franckiewicz Tomasz[d]
 1. Gontarski Karol
 1. Pająkowski Adrian
 1. Olszer Krzysztof
@@ -121,3 +121,4 @@ Różne rzeczy:
 [a]:http://apastuszka.github.io/wizytowka
 [b]:http://wdenejko.github.com
 [c]:http://matismatis93.github.io/techint
+[d]:http://tomasz.fr
