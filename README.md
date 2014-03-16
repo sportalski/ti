@@ -75,6 +75,8 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 
 2\. HTML & CSS:
 
+- [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
+  wprowadzenie do HTML i CSS
 - Eric Bidelman.
   [Web Components resource guide](https://gist.github.com/ebidel/6314025).
 - [Rob Dodson](http://robdodson.me/blog/):
@@ -89,10 +91,12 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
   * [prism-js](https://github.com/addyosmani/prism-js)
   * [google-maps](https://github.com/eduardolundgren/google-maps-element)
 - [X-Tag](http://www.x-tags.org/) – Web Components Custom Element Polylib (Mozilla):
+
+Różne rzeczy:
+
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [JS Bin](http://jsbin.com/) – collaborative JavaScript Debugging
-- [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
-  wprowadzenie do HTML i CSS
+- [CodePen](http://codepen.io/) – front end developer playground & code editor in the browser
 
 3\. JavaScript:
 
