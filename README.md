@@ -2,7 +2,7 @@
 
 Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki Internetowe”.
 
-1. Budka Kamil
+1. [Budka Kamil][g]
 1. Całus Maciej
 1. Duchna Przemysław
 1. Falęcki Jacek
@@ -126,3 +126,4 @@ Różne rzeczy:
 [d]:http://tomasz.fr
 [6]:http://kolszer.github.io
 [f]:http://michalt.pl
+[g]:http://kbudka.github.io/hcj-zadania
