@@ -5,6 +5,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. [Basiak Paweł](http://pbasiak.github.io)
 1. [Budka Kamil][g]
 1. Całus Maciej
+1. [Denejko Wojciech][b]
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
@@ -13,6 +14,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. Mroczkowski Jacek
 1. [Michalski Mateusz][c]
 1. Massalska Emilia
+1. Mazur Michał
 1. Pająkowski Adrian
 1. Paprocki Adam
 1. [Olszer Krzysztof][e]
@@ -24,10 +26,6 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. Turzyński Michał[f]
 1. Wardzińska Justyna
 1. Zielke Adam
-
-
-1. Mazur Michał
-1. [Denejko Wojciech][b]
 
 
 ### Użyteczne narzędzia
