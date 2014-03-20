@@ -104,6 +104,7 @@ Różne rzeczy:
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [JS Bin](http://jsbin.com/) – collaborative JavaScript Debugging
 - [CodePen](http://codepen.io/) – front end developer playground & code editor in the browser
+- [To close or not to close](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html)
 
 3\. JavaScript:
 
