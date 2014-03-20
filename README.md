@@ -124,6 +124,6 @@ Różne rzeczy:
 [b]:http://wdenejko.github.com
 [c]:http://matismatis93.github.io/techint
 [d]:http://tomasz.fr
-[6]:http://kolszer.github.io
+[e]:http://kolszer.github.io
 [f]:http://michalt.pl
 [g]:http://kbudka.github.io/hcj-zadania
