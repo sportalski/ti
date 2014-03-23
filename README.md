@@ -23,7 +23,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. [Pastuszka Anna][a]
 1. Perkowski Maciej
 1. Szykuła Artur
-1. Turzyński Michał[f]
+1. [Turzyński Michał](http://michalt.pl)
 1. Wardzińska Justyna
 1. Zielke Adam
 
@@ -126,5 +126,4 @@ Różne rzeczy:
 [c]:http://matismatis93.github.io/techint
 [d]:http://tomasz.fr
 [e]:http://kolszer.github.io
-[f]:http://michalt.pl
 [g]:http://kbudka.github.io/hcj-zadania
