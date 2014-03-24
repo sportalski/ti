@@ -79,6 +79,9 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
   wprowadzenie do HTML i CSS:
   - [The default Google Chrome style sheet used to render HTML](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css?format=txt)
   - [HTML & JavaScript usage > all features > stack rank](http://www.chromestatus.com/metrics/feature/popularity)
+- [WTF, HTML and CSS?](http://wtfhtmlcss.com/) –
+  reasons HTML and CSS might make you say what the fuck; 
+  a curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas
 - Eric Bidelman.
   [Web Components resource guide](https://gist.github.com/ebidel/6314025).
 - [Rob Dodson](http://robdodson.me/blog/):
