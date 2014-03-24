@@ -98,6 +98,7 @@ W3C & MDN:
 
 - [Cascading Style Sheets](http://www.w3.org/Style/CSS/)
 - [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
+  - [Mozilla CSS Extensions](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Mozilla_Extensions)
 
 Różne rzeczy:
 
