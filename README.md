@@ -86,6 +86,7 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
   * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
   * [Creating a Markdown Tag With Polymer](http://robdodson.me/blog/2013/10/02/creating-a-markdown-tag-with-polymer/)
 - [Polymer](http://www.polymer-project.org/) – building blocks for the web:
+  * [Polymer Sandbox](http://www.polymer-project.org/tools/sandbox/)
   * [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/) –
     defining new elements in HTML;
     zobacz też [MDN](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
