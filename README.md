@@ -77,7 +77,7 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
   wprowadzenie do HTML i CSS:
-  - [The default Chrom style sheet used to render HTML](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css?format=txt)
+  - [The default Google Chrome style sheet used to render HTML](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css?format=txt)
 - Eric Bidelman.
   [Web Components resource guide](https://gist.github.com/ebidel/6314025).
 - [Rob Dodson](http://robdodson.me/blog/):
