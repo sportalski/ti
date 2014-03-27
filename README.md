@@ -133,4 +133,4 @@ Różne rzeczy:
 [c]:http://matismatis93.github.io/techint
 [d]:http://tomasz.fr
 [e]:http://kolszer.github.io
-[g]:http://kbudka.github.io/hcj-zadania
+[g]:http://kbudka.github.io/Zadania_TI
