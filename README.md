@@ -21,7 +21,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. Kalarus Marcin
 1. Hinz Karol
 1. [Pastuszka Anna][a]
-1. Perkowski Maciej
+1. [Perkowski Maciej](http://mperkowski.github.io/tabelki-1/)
 1. [Szykuła Artur](http://aszykula.github.io/)
 1. [Turzyński Michał](http://michalt.pl)
 1. Wardzińska Justyna
