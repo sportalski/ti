@@ -23,7 +23,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. [Pastuszka Anna][a]
 1. [Perkowski Maciej](http://mperkowski.github.io/tabelki-1/)
 1. [Szykuła Artur](http://aszykula.github.io/)
-1. [Turzyński Michał](http://michalt.pl)
+1. [Turzyński Michał](http://michalt.pl) [teatry](http://ti.michalt.pl/mapy/)
 1. Wardzińska Justyna
 1. Zielke Adam
 
