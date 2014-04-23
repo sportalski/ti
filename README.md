@@ -80,7 +80,7 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
   - [The default Google Chrome style sheet used to render HTML](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css?format=txt)
   - [HTML & JavaScript usage > all features > stack rank](http://www.chromestatus.com/metrics/feature/popularity)
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com/) –
-  reasons HTML and CSS might make you say what the fuck; 
+  reasons HTML and CSS might make you say what the fuck;
   a curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas
 - Eric Bidelman.
   [Web Components resource guide](https://gist.github.com/ebidel/6314025).
@@ -123,6 +123,7 @@ Różne rzeczy:
 
 4\. [Meteor](https://www.meteor.com/):
 
+- [A JavaScript Primer For Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)
 - [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
 - [Explore Meteor with EventedMind](https://www.eventedmind.com/) – screencasty
 - [Discover Meteor](http://book.discovermeteor.com/) – książka
