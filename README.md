@@ -125,6 +125,7 @@ Różne rzeczy:
 
 - [A JavaScript Primer For Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)
 - [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
+- [A Guide to Meteor Templates & Data Contexts](https://www.discovermeteor.com/blog/a-guide-to-meteor-templates-data-contexts/)
 - [Explore Meteor with EventedMind](https://www.eventedmind.com/) – screencasty
 - [Discover Meteor](http://book.discovermeteor.com/) – książka
 
