@@ -5,7 +5,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Basiak Paweł](http://pbasiak.github.io)
 1. [Budka Kamil][g]
 1. Całus Maciej
-1. [Denejko Wojciech][b]
+1. [Denejko Wojciech][b], [Slid.es](http://wdenejko.github.io/2014/03/22/slides---slajdy-meteor-jekyll/)
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
@@ -27,13 +27,15 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Wardzińska Justyna
 1. Zielke Adam
 
+[b]:http://wdenejko.github.com
+
 Aplikacje napisane we frameworku Meteor na egzamin z przedmiotu „Techniki Internetowe”.
 
 1. `[link do repozytorium z kodem](link do wdrożonej i działającej aplikacji)`
 1. Basiak Paweł
 1. Budka Kamil
 1. Całus Maciej
-1. Denejko Wojciech
+1. [Denejko Wojciech][mb]
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
@@ -55,6 +57,7 @@ Aplikacje napisane we frameworku Meteor na egzamin z przedmiotu „Techniki Int
 1. Wardzińska Justyna
 1. Zielke Adam
 
+[mb]:http://kalendarz.meteor.com/
 
 ### Użyteczne narzędzia
 
@@ -184,7 +187,6 @@ JQuery:
 
 
 [a]:http://apastuszka.github.io/wizytowka
-[b]:http://wdenejko.github.com
 [c]:http://matismatis93.github.io/techint
 [d]:http://tomasz.fr
 [e]:http://kolszer.github.io
