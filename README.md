@@ -9,7 +9,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
-1. [Franckiewicz Tomasz][d] ([Source](https://github.com/tfranckiewicz/tfranckiewicz.github.io)), [Jekyll Blog](http://tomasz.fr/blog/) ([Source](https://github.com/tfranckiewicz/blog/tree/gh-pages)), [Meteor ChatApp](http://tfranckiewicz.meteor.com) ([Source](https://github.com/tfranckiewicz/ChatApp)) ([Travis CI](https://travis-ci.org/tfranckiewicz/ChatApp)), [CSS Tips & Tricks](http://slid.es/tomaszfranckiewicz/css)
+1. [Franckiewicz Tomasz][d] ([Source](https://github.com/tfranckiewicz/tfranckiewicz.github.io)), [Jekyll Blog](http://tomasz.fr/blog/) ([Source](https://github.com/tfranckiewicz/blog/tree/gh-pages)), [CSS Tips & Tricks](http://slid.es/tomaszfranckiewicz/css)
 1. Gontarski Karol
 1. Mroczkowski Jacek
 1. [Michalski Mateusz][c]
@@ -39,7 +39,7 @@ Aplikacje napisane we frameworku Meteor na egzamin z przedmiotu „Techniki Int
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
-1. Franckiewicz Tomasz
+1. [Franckiewicz Tomasz](https://github.com/tfranckiewicz/ChatApp). [Meteor ChatApp](http://tfranckiewicz.meteor.com) ([Travis CI](https://travis-ci.org/tfranckiewicz/ChatApp))
 1. Gontarski Karol
 1. Mroczkowski Jacek
 1. Michalski Mateusz
