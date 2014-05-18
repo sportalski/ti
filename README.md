@@ -5,7 +5,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Basiak Paweł](http://pbasiak.github.io)
 1. [Budka Kamil][g]
 1. Całus Maciej
-1. [Denejko Wojciech][b], [Slid.es](http://wdenejko.github.io/2014/03/22/slides---slajdy-meteor-jekyll/)
+1. [Denejko Wojciech][b], [Blog](http://wdenejko.github.io/2014/03/22/slides---slajdy-meteor-jekyll/)
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
