@@ -175,8 +175,9 @@ JQuery:
 
 - [The Basics of jQuery](http://andreehansson.se/the-basics-of-jquery/)
 - [Try jQuery](https://www.codeschool.com/courses/try-jquery)
-- []()
-- []()
+- Rebecca Murphey.
+  [A guide to the basics of jQuery](http://jqfundamentals.com/)
+  * [AJAX & Deferreds](http://jqfundamentals.com/chapter/ajax-deferreds) – promises
 
 [Meteor](https://www.meteor.com/):
 
