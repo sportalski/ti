@@ -1,15 +1,15 @@
 ## Techniki Internetowe, 2013/2014
 
-Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki Internetowe”.
+Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”.
 
 1. [Basiak Paweł](http://pbasiak.github.io)
 1. [Budka Kamil][g]
 1. Całus Maciej
-1. [Denejko Wojciech][b]
+1. [Denejko Wojciech][b], [Blog](http://wdenejko.github.io/2014/03/22/slides---slajdy-meteor-jekyll/)
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
-1. [Franckiewicz Tomasz][d] ([Source](https://github.com/tfranckiewicz/tfranckiewicz.github.io)), [Jekyll Blog](http://tomasz.fr/blog/) ([Source](https://github.com/tfranckiewicz/blog/tree/gh-pages)), [Meteor ChatApp](http://tfranckiewicz.meteor.com) ([Source](https://github.com/tfranckiewicz/ChatApp)), [CSS Tips & Tricks](http://slid.es/tomaszfranckiewicz/css)
+1. [Franckiewicz Tomasz][d] ([Source](https://github.com/tfranckiewicz/tfranckiewicz.github.io)), [Jekyll Blog](http://tomasz.fr/blog/) ([Source](https://github.com/tfranckiewicz/blog/tree/gh-pages)), [CSS Tips & Tricks](http://slid.es/tomaszfranckiewicz/css)
 1. Gontarski Karol
 1. Mroczkowski Jacek
 1. [Michalski Mateusz][c]
@@ -23,10 +23,41 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 1. [Pastuszka Anna][a]
 1. [Perkowski Maciej](http://mperkowski.github.io/tabelki-1/)
 1. [Szykuła Artur](http://aszykula.github.io/)
-1. [Turzyński Michał](http://michalt.pl) [teatry](http://ti.michalt.pl/mapy/)
+1. [Turzyński Michał](http://michalt.pl) [teatry](http://ti.michalt.pl/mapy/), [Nightingale](http://ti.michalt.pl/nightingale/)
 1. Wardzińska Justyna
 1. Zielke Adam
 
+[b]:http://wdenejko.github.com
+
+Aplikacje napisane we frameworku Meteor na egzamin z przedmiotu „Techniki Internetowe”.
+
+1. `[link do repozytorium z kodem](link do wdrożonej i działającej aplikacji)`
+1. Basiak Paweł
+1. Budka Kamil
+1. Całus Maciej
+1. [Denejko Wojciech][mb]
+1. Duchna Przemysław
+1. Dunikowski Jacek
+1. Falęcki Jacek
+1. [Franckiewicz Tomasz](https://github.com/tfranckiewicz/ChatApp). [Meteor ChatApp](http://tfranckiewicz.meteor.com) ([Travis CI](https://travis-ci.org/tfranckiewicz/ChatApp))
+1. Gontarski Karol
+1. Mroczkowski Jacek
+1. Michalski Mateusz
+1. Massalska Emilia
+1. Mazur Michał
+1. Pająkowski Adrian
+1. Paprocki Adam
+1. Olszer Krzysztof
+1. Kalarus Marcin
+1. Hinz Karol
+1. Pastuszka Anna
+1. Perkowski Maciej
+1. Szykuła Artur
+1. Turzyński Michał
+1. Wardzińska Justyna
+1. Zielke Adam
+
+[mb]:http://kalendarz.meteor.com/
 
 ### Użyteczne narzędzia
 
@@ -47,7 +78,8 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 * 5 — blog do swojego repozytorium przygotowany za pomocą narzędzia
   [Jekyll](http://jekyllrb.com/). JTZ –
   [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages).
-  Pokaz slajdów zamienić na wpis do tego bloga.<br>
+  Pokaz slajdów (lub opis aplikacji napisanej we frameworku Meteor)
+  zamienić na wpis do tego bloga.<br>
   Można użyć innego narzędzia do generowania bloga, na przykład
   [metalsmith](https://github.com/segmentio/metalsmith).
   Zob. też [mini-review of static site generators](https://github.com/skx/static-site-generators).
@@ -55,7 +87,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Technik
 
 ### Egzamin
 
-Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.com/).
+Napisać aplikację www korzystając z frameworka [Meteor](https://www.meteor.com/).
 
 
 ### Git
@@ -165,7 +197,6 @@ Tutorials:
 
 
 [a]:http://apastuszka.github.io/wizytowka
-[b]:http://wdenejko.github.com
 [c]:http://matismatis93.github.io/techint
 [d]:http://tomasz.fr
 [e]:http://kolszer.github.io
