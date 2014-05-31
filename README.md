@@ -81,6 +81,9 @@ Napisać aplikację www korzystając z narzędzia [Meteor](https://www.meteor.c
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com/) –
   reasons HTML and CSS might make you say what the fuck;
   a curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas
+- Tommi Kaikkonen.
+  * [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/)
+  * [Why Websites Are White](http://www.kaikkonendesign.fi/why-websites-are-white/)
 - Eric Bidelman.
   [Web Components resource guide](https://gist.github.com/ebidel/6314025).
 - [Rob Dodson](http://robdodson.me/blog/):
@@ -140,6 +143,8 @@ JQuery:
 
 - [The Basics of jQuery](http://andreehansson.se/the-basics-of-jquery/)
 - [Try jQuery](https://www.codeschool.com/courses/try-jquery)
+- []()
+- []()
 
 [Meteor](https://www.meteor.com/):
 
@@ -152,6 +157,11 @@ JQuery:
 - [Explore Meteor with EventedMind](https://www.eventedmind.com/) – screencasty
 - [Discover Meteor](http://book.discovermeteor.com/) – książka
   * [polskie tłumaczenie](http://pl.discovermeteor.com/)
+
+Tutorials:
+
+- Manuel Schoebel.
+  [Login required for an url done right](http://www.manuel-schoebel.com/blog/login-required-for-an-url-done-right)
 
 
 [a]:http://apastuszka.github.io/wizytowka
