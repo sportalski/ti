@@ -12,8 +12,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Franckiewicz Tomasz][d] ([Source](https://github.com/tfranckiewicz/tfranckiewicz.github.io)), [Jekyll Blog](http://tomasz.fr/blog/) ([Source](https://github.com/tfranckiewicz/blog/tree/gh-pages)), [CSS Tips & Tricks](http://slid.es/tomaszfranckiewicz/css)
 1. Gontarski Karol
 1. Mroczkowski Jacek
-1. [Michalski Mateusz][c]
-1. Massalska Emilia
+1. [Michalski Mateusz](http://matismatis93.github.io/matmic/)
 1. Mazur Michał
 1. Pająkowski Adrian
 1. Paprocki Adam
