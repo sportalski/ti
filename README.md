@@ -16,7 +16,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Massalska Emilia
 1. Mazur Michał
 1. Pająkowski Adrian
-1. Paprocki Adam
+1. [Paprocki Adam](http://paprot.github.io/)
 1. [Olszer Krzysztof][e]
 1. Kalarus Marcin
 1. Hinz Karol
