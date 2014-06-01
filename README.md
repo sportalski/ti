@@ -46,7 +46,7 @@ Aplikacje napisane we frameworku Meteor na egzamin z przedmiotu „Techniki Int
 1. Massalska Emilia
 1. Mazur Michał
 1. Pająkowski Adrian
-1. Paprocki Adam
+1. [Paprocki Adam](http://paprot.github.io/)
 1. Olszer Krzysztof
 1. Kalarus Marcin
 1. Hinz Karol
