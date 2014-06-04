@@ -17,7 +17,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Mazur Michał
 1. Pająkowski Adrian
 1. [Paprocki Adam](http://paprot.github.io/)
-1. [Olszer Krzysztof][e]
+1. [Olszer Krzysztof](http://kolszer.github.io/kolszer/), [Leaflet](http://kolszer.github.io/leaflet/), [Jekyll](http://kolszer.github.io/)
 1. Kalarus Marcin
 1. Hinz Karol
 1. [Pastuszka Anna][a]
@@ -47,7 +47,7 @@ Aplikacje napisane we frameworku Meteor na egzamin z przedmiotu „Techniki Int
 1. Mazur Michał
 1. Pająkowski Adrian
 1. [Paprocki Adam](http://paprot.github.io/)
-1. Olszer Krzysztof
+1. Olszer Krzysztof [https://github.com/kolszer/kontakty](http://kontakty.meteor.com)
 1. Kalarus Marcin
 1. Hinz Karol
 1. Pastuszka Anna
@@ -200,5 +200,4 @@ Tutorials:
 [a]:http://apastuszka.github.io/wizytowka
 [c]:http://matismatis93.github.io/techint
 [d]:http://tomasz.fr
-[e]:http://kolszer.github.io
 [g]:http://kbudka.github.io/Zadania_TI
