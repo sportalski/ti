@@ -27,15 +27,22 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Zielke Adam](http://adamzielke.github.io/adam)
 
 <!--
+
 1. [Olszer Krzysztof](http://kolszer.github.io/kolszer/), [Leaflet](http://kolszer.github.io/leaflet/), [Jekyll](http://kolszer.github.io/)
 1. [Franckiewicz Tomasz][d] ([Source](https://github.com/tfranckiewicz/tfranckiewicz.github.io)), [Jekyll Blog](http://tomasz.fr/blog/) ([Source](https://github.com/tfranckiewicz/blog/tree/gh-pages)), [CSS Tips & Tricks](http://slid.es/tomaszfranckiewicz/css)
+
+1. [Franckiewicz Tomasz](https://github.com/tfranckiewicz/ChatApp). [Meteor ChatApp](http://tfranckiewicz.meteor.com) ([Travis CI](https://travis-ci.org/tfranckiewicz/ChatApp))
+1. [Olszer Krzysztof](https://github.com/kolszer/kontakty). [Kontaty](http://kontakty.meteor.com)
+
 -->
 
 [b]:http://wdenejko.github.com
 
 Aplikacje napisane we frameworku Meteor na egzamin z przedmiotu „Techniki Internetowe”.
+Dane nalezy wpisać według formatu:
 
-1. `[link do repozytorium z kodem](link do wdrożonej i działającej aplikacji)`
+    1. [Nazwisko Imię](link do repozytorium z kodem). [Nazwa aplikacji](link do wdrożonej i działającej aplikacji)
+
 1. Basiak Paweł
 1. Budka Kamil
 1. Całus Maciej
@@ -43,15 +50,13 @@ Aplikacje napisane we frameworku Meteor na egzamin z przedmiotu „Techniki Int
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
-1. [Franckiewicz Tomasz](https://github.com/tfranckiewicz/ChatApp). [Meteor ChatApp](http://tfranckiewicz.meteor.com) ([Travis CI](https://travis-ci.org/tfranckiewicz/ChatApp))
 1. Gontarski Karol
 1. Mroczkowski Jacek
 1. Michalski Mateusz
 1. Massalska Emilia
 1. Mazur Michał
 1. Pająkowski Adrian
-1. [Paprocki Adam](http://paprot.github.io/)
-1. [Olszer Krzysztof](https://github.com/kolszer/kontakty), [Kontaty](http://kontakty.meteor.com)
+1. Paprocki Adam
 1. Kalarus Marcin
 1. Hinz Karol
 1. Pastuszka Anna
