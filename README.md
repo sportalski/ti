@@ -8,7 +8,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Denejko Wojciech][b], [Blog](http://wdenejko.github.io/2014/03/22/slides---slajdy-meteor-jekyll/)
 1. Duchna Przemysław
 1. [Dunikowski Jacek](http://jaca22.github.io)
-1. Falęcki Jacek
+1. [Falęcki Jacek](http://jfalecki.github.io/TechInter/)
 1. [Franckiewicz Tomasz][d] ([Source](https://github.com/tfranckiewicz/tfranckiewicz.github.io)), [Jekyll Blog](http://tomasz.fr/blog/) ([Source](https://github.com/tfranckiewicz/blog/tree/gh-pages)), [CSS Tips & Tricks](http://slid.es/tomaszfranckiewicz/css)
 1. Gontarski Karol
 1. Massalska Emilia
