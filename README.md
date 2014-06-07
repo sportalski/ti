@@ -26,7 +26,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Turzyński Michał
 1. Wardzińska Justyna
 1. [Mariusz Miszczykowski](http://miszczyk.github.io/)
-1. Zielke Adam
+1. [Zielke Adam](http://adamzielke.github.io/adam)
 
 [b]:http://wdenejko.github.com
 
