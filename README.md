@@ -9,7 +9,6 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Duchna Przemysław
 1. [Dunikowski Jacek](http://jaca22.github.io)
 1. [Falęcki Jacek](http://jfalecki.github.io/TechInter/)
-1. [Franckiewicz Tomasz][d] ([Source](https://github.com/tfranckiewicz/tfranckiewicz.github.io)), [Jekyll Blog](http://tomasz.fr/blog/) ([Source](https://github.com/tfranckiewicz/blog/tree/gh-pages)), [CSS Tips & Tricks](http://slid.es/tomaszfranckiewicz/css)
 1. Gontarski Karol
 1. Massalska Emilia
 1. Mroczkowski Jacek
@@ -17,7 +16,6 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Mazur Michał
 1. [Pająkowski Adrian](http://apajakowski.github.io)
 1. [Paprocki Adam](http://paprot.github.io/)
-1. [Olszer Krzysztof](http://kolszer.github.io/kolszer/), [Leaflet](http://kolszer.github.io/leaflet/), [Jekyll](http://kolszer.github.io/)
 1. Kalarus Marcin
 1. Hinz Karol
 1. [Pastuszka Anna][a]
@@ -27,6 +25,11 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Wardzińska Justyna
 1. [Mariusz Miszczykowski](http://miszczyk.github.io/)
 1. [Zielke Adam](http://adamzielke.github.io/adam)
+
+<!--
+1. [Olszer Krzysztof](http://kolszer.github.io/kolszer/), [Leaflet](http://kolszer.github.io/leaflet/), [Jekyll](http://kolszer.github.io/)
+1. [Franckiewicz Tomasz][d] ([Source](https://github.com/tfranckiewicz/tfranckiewicz.github.io)), [Jekyll Blog](http://tomasz.fr/blog/) ([Source](https://github.com/tfranckiewicz/blog/tree/gh-pages)), [CSS Tips & Tricks](http://slid.es/tomaszfranckiewicz/css)
+-->
 
 [b]:http://wdenejko.github.com
 
@@ -48,7 +51,7 @@ Aplikacje napisane we frameworku Meteor na egzamin z przedmiotu „Techniki Int
 1. Mazur Michał
 1. Pająkowski Adrian
 1. [Paprocki Adam](http://paprot.github.io/)
-1. Olszer Krzysztof [https://github.com/kolszer/kontakty](http://kontakty.meteor.com)
+1. [Olszer Krzysztof](https://github.com/kolszer/kontakty), [Kontaty](http://kontakty.meteor.com)
 1. Kalarus Marcin
 1. Hinz Karol
 1. Pastuszka Anna
