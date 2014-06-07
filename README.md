@@ -40,7 +40,6 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. Hinz Karol
 1. [Perkowski Maciej](http://mperkowski.github.io/tabelki-1/)
 1. [Szykuła Artur](http://aszykula.github.io/)
-1. Turzyński Michał
 1. Wardzińska Justyna
 1. [Mariusz Miszczykowski](http://miszczyk.github.io/)
 1. [Zielke Adam](http://adamzielke.github.io/adam)
