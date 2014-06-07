@@ -15,7 +15,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Mroczkowski Jacek
 1. [Michalski Mateusz](http://matismatis93.github.io/matmic/)
 1. Mazur Michał
-1. Pająkowski Adrian
+1. [Pająkowski Adrian](http://apajakowski.github.io)
 1. [Paprocki Adam](http://paprot.github.io/)
 1. [Olszer Krzysztof](http://kolszer.github.io/kolszer/), [Leaflet](http://kolszer.github.io/leaflet/), [Jekyll](http://kolszer.github.io/)
 1. Kalarus Marcin
