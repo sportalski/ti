@@ -52,9 +52,10 @@ Napisać aplikację www korzystając z frameworka [Meteor](https://www.meteor.co
 Do kodu JavaScript dopisać testy. Testy podłaczyć do
 platformy [Travis](https://travis-ci.com/plans) (wybrać FREE plan).
 
-Dane należy wpisać według formatu:
+Dane należy wpisać według formatu (wzystko w jednym wierszu):
 
-    1. [Nazwisko Imię](link do repozytorium z kodem). [Nazwa aplikacji](link do wdrożonej i działającej aplikacji)
+    1. [Nazwisko Imię](link do repozytorium z kodem). 
+    [Nazwa aplikacji](link do wdrożonej i działającej aplikacji)
 
 U góry strony *README.md* w repozytorium z kodem dodać ikonkę Travisa [build|passing],
 tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro).
