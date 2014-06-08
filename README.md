@@ -35,7 +35,7 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. Kalarus Marcin
 1. Massalska Emilia
 1. Mazur Michał
-1. [Michalski Mateusz](http://matismatis93.github.io/matmic/)
+1. [Michalski Mateusz](https://github.com/matismatis93/matmic). [Strona](http://matismatis93.github.io/matmic/).
 1. Miszczykowski Mariusz
 1. Mroczkowski Jacek
 1. Pająkowski Adrian
