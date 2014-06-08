@@ -41,8 +41,8 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. Pająkowski Adrian
 1. Paprocki Adam
 1. Perkowski Maciej
-1. Szykuła Artur
-1. Wardzińska Justyna
+1. [Szykuła Artur - repozytorium ](https://github.com/aszykula/aszykula.github.io)[ Leaflet i localStorage](http://aszykula.github.io)[ prezentacja slides.com ](http://slides.com/arturszykula/prezentacja-aszykula/live#/)
+1. Wardzińska Justyna 
 1. Wiergowski Adam
 1. Zielke Adam
 
