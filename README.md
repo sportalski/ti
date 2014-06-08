@@ -29,7 +29,7 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. [Denejko Wojciech](https://github.com/wdenejko/wdenejko.github.com). [Leaflet](http://wdenejko.github.io/ti2013/leaflet/), [Jekyll](http://wdenejko.github.io/).
 1. Duchna Przemysław
 1. Dunikowski Jacek
-1. Falęcki Jacek
+1. [Falęcki Jacek](https://github.com/jfalecki). [Strona](http://jfalecki.github.io/TechInter/)
 1. Gontarski Karol
 1. Hinz Karol. [Blog](http://khinz.github.io/StronaTI/index.html). [Prezentacja](http://khinz.github.io/StronaTI/zaliczenie.html). [Gra](http://khinz.github.io/StronaTI/gra.html).
 1. [Kalarus Marcin](https://mkalarus.github.io). [Leaflet](http://mkalarus.github.io/Mapa/), [Pokaz z opisem elementów strony](http://slides.com/finmarchicus/jak-tworzylem-moja-strone).
