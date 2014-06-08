@@ -26,7 +26,7 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. Basiak Paweł
 1. Budka Kamil
 1. Całus Maciej
-1. Denejko Wojciech
+1. [Denejko Wojciech](https://github.com/wdenejko/wdenejko.github.com)[Jekyll](http://wdenejko.github.io/)[Leaflet](http://wdenejko.github.io/ti2013/leaflet/)[Meteor](http://kalendarz.meteor.com)
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
