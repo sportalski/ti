@@ -113,3 +113,4 @@ Tutorials:
 1. Wardzińska Justyna
 1. [Mariusz Miszczykowski](http://miszczyk.github.io/)
 1. [Zielke Adam](http://adamzielke.github.io/adam)
+1. [Mroczkowski Jacek](http://kks7717.github.io/visiting-card/)
