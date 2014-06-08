@@ -25,7 +25,7 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 
 1. Basiak Paweł
 1. Budka Kamil
-1. [Całus Maciej](https://github.com/madox/madox.github.io). [Strona z LeafLet](http://madox.github.io/#mapka), [Pokaz z opisem elementów strony](http://madox.github.io/pokaz.html).
+1. [Całus Maciej](https://github.com/madox/madox.github.io). [LeafLet](http://madox.github.io/#mapka), [Pokaz z opisem elementów strony](http://madox.github.io/pokaz.html).
 1. [Denejko Wojciech](https://github.com/wdenejko/wdenejko.github.com). [Leaflet](http://wdenejko.github.io/ti2013/leaflet/), [Jekyll](http://wdenejko.github.io/).
 1. Duchna Przemysław
 1. Dunikowski Jacek
