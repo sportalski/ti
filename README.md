@@ -25,8 +25,8 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 
 1. Basiak Paweł
 1. Budka Kamil
-1. Całus Maciej
-1. [Denejko Wojciech](https://github.com/wdenejko/wdenejko.github.com)[Jekyll](http://wdenejko.github.io/)[Leaflet](http://wdenejko.github.io/ti2013/leaflet/)[Meteor](http://kalendarz.meteor.com)
+1. [Całus Maciej](https://github.com/madox/madox.github.io). [Strona z LeafLet](http://madox.github.io/#mapka), [Pokaz z opisem elementów strony](http://madox.github.io/pokaz.html).
+1. [Denejko Wojciech](https://github.com/wdenejko/wdenejko.github.com). [Leaflet](http://wdenejko.github.io/ti2013/leaflet/), [Jekyll](http://wdenejko.github.io/).
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
@@ -41,8 +41,8 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. Pająkowski Adrian
 1. Paprocki Adam
 1. Perkowski Maciej
-1. [Szykuła Artur - repozytorium ](https://github.com/aszykula/aszykula.github.io)[ Leaflet i localStorage](http://aszykula.github.io)[ prezentacja slides.com ](http://slides.com/arturszykula/prezentacja-aszykula/live#/)
-1. Wardzińska Justyna 
+1. [Szykuła Artur](https://github.com/aszykula/aszykula.github.io). [Leaflet i localStorage](http://aszykula.github.io), [prezentacja](http://slides.com/arturszykula/prezentacja-aszykula/live#/).
+1. Wardzińska Justyna
 1. Wiergowski Adam
 1. Zielke Adam
 
@@ -66,7 +66,7 @@ Ostateczny termin pull requests z danymi upływa 24.08.2014.
 1. Basiak Paweł
 1. Budka Kamil
 1. Całus Maciej
-1. Denejko Wojciech
+1. [Denejko Wojciech](/). [Meteor](http://kalendarz.meteor.com)
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
