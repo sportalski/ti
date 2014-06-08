@@ -6,7 +6,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki
 
 1\. Przygotowac stronę korzystająca z bibliotek [Leaflet](http://leafletjs.com/)
 i [localForage](https://github.com/mozilla/localForage).
-Do kodu JavaScript dopisać testy. Testy podłaczyć do
+Do kodu JavaScript dopisać testy. Testy podłączyć do
 platformy [Travis](https://travis-ci.com/plans) (wybrać FREE plan).
 
 2\. Przygotować pokaz slajdów w [Reveal.js](http://lab.hakim.se/reveal-js/)
@@ -50,7 +50,7 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 ### Egzamin poprawkowy (wrzesień)
 
 Napisać aplikację www korzystając z frameworka [Meteor](https://www.meteor.com/).
-Do kodu JavaScript dopisać testy. Testy podłaczyć do
+Do kodu JavaScript dopisać testy. Testy podłączyć do
 platformy [Travis](https://travis-ci.com/plans) (wybrać FREE plan).
 
 Dane należy wpisać według formatu (wzystko w jednym wierszu):
