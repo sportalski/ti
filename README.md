@@ -31,8 +31,8 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. Dunikowski Jacek
 1. Falęcki Jacek
 1. Gontarski Karol
-1. Hinz Karol [blog - tabelki](http://khinz.github.io/StronaTI/index.html). [prezentacja](http://khinz.github.io/StronaTI/zaliczenie.html). [gra html](http://khinz.github.io/StronaTI/gra.html).
-1. Kalarus Marcin
+1. Hinz Karol. [Blog](http://khinz.github.io/StronaTI/index.html). [Prezentacja](http://khinz.github.io/StronaTI/zaliczenie.html). [Gra](http://khinz.github.io/StronaTI/gra.html).
+1. [Kalarus Marcin](https://mkalarus.github.io). [Leaflet](http://mkalarus.github.io/Mapa/), [Pokaz z opisem elementów strony](http://slides.com/finmarchicus/jak-tworzylem-moja-strone).
 1. Massalska Emilia
 1. Mazur Michał
 1. [Michalski Mateusz](https://github.com/matismatis93/matmic). [Strona](http://matismatis93.github.io/matmic/).
