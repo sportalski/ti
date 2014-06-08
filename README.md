@@ -31,7 +31,7 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. Dunikowski Jacek
 1. Falęcki Jacek
 1. Gontarski Karol
-1. Hinz Karol
+1. Hinz Karol [blog - tabelki](http://khinz.github.io/StronaTI/index.html). [prezentacja](http://khinz.github.io/StronaTI/zaliczenie.html). [gra html](http://khinz.github.io/StronaTI/gra.html).
 1. Kalarus Marcin
 1. Massalska Emilia
 1. Mazur Michał
