@@ -66,7 +66,7 @@ Ostateczny termin pull requests z danymi upływa 24.08.2014.
 1. Basiak Paweł
 1. Budka Kamil
 1. Całus Maciej
-1. [Denejko Wojciech](/). [Meteor](http://kalendarz.meteor.com)
+1. [Denejko Wojciech](/). [Kalendarz](http://kalendarz.meteor.com)
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
