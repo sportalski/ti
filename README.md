@@ -65,9 +65,7 @@ Ostateczny termin pull requests z danymi upływa 24.08.2014.
 
 1. Basiak Paweł
 1. Budka Kamil
-1. Całus Maciej
-1. [Całus Maciej](https://github.com/madox/myapp).
-[Nazwa aplikacji](http://baza.meteor.com/)
+1. [Całus Maciej](https://github.com/madox/myapp). [Baza](http://baza.meteor.com/)
 1. [Denejko Wojciech](/). [Kalendarz](http://kalendarz.meteor.com)
 1. Duchna Przemysław
 1. Dunikowski Jacek
