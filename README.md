@@ -2,6 +2,8 @@
 
 Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki Internetowe”.
 
+**UWAGA:** Panów Mazura i Wiergowskiego nie mam na liście z dziekanatu.
+
 ### Zaliczenie (poprawka)
 
 1\. Przygotowac stronę korzystająca z bibliotek [Leaflet](http://leafletjs.com/)
