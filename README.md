@@ -25,26 +25,9 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 
 1. Basiak Paweł
 1. Budka Kamil
-1. [Całus Maciej](https://github.com/madox/madox.github.io). [LeafLet](http://madox.github.io/#mapka), [Pokaz z opisem elementów strony](http://madox.github.io/pokaz.html) ([Strona projektu gesture.js do obsługi gestów w reveal.js](http://www.chromeexperiments.com/detail/gesture-based-revealjs/)).
-1. [Denejko Wojciech](https://github.com/wdenejko/wdenejko.github.com). [Leaflet](http://wdenejko.github.io/ti2013/leaflet/), [Jekyll](http://wdenejko.github.io/).
 1. Duchna Przemysław
 1. Dunikowski Jacek
-1. [Falęcki Jacek](https://github.com/jfalecki). [Strona](http://jfalecki.github.io/TechInter/)
 1. Gontarski Karol
-1. Hinz Karol. [Blog](http://khinz.github.io/StronaTI/index.html). [Prezentacja](http://khinz.github.io/StronaTI/zaliczenie.html). [Gra](http://khinz.github.io/StronaTI/gra.html).
-1. [Kalarus Marcin](https://mkalarus.github.io). [Leaflet](http://mkalarus.github.io/Mapa/), [Pokaz z opisem elementów strony](http://slides.com/finmarchicus/jak-tworzylem-moja-strone).
-1. Massalska Emilia
-1. Mazur Michał
-1. [Michalski Mateusz](https://github.com/matismatis93/matmic). [Strona](http://matismatis93.github.io/matmic/).
-1. Miszczykowski Mariusz
-1. Mroczkowski Jacek
-1. Pająkowski Adrian
-1. Paprocki Adam
-1. Perkowski Maciej
-1. [Szykuła Artur](https://github.com/aszykula/aszykula.github.io). [Leaflet i localStorage](http://aszykula.github.io), [Prezentacja](http://slides.com/arturszykula/prezentacja-aszykula/live#/).
-1. [Wardzińska Justyna](http://wardzinskaj.github.io/). [Leaflet](http://wardzinskaj.github.io/leaflet). [Slajdy](http://slides.com/justynawardzinska/deck).
-1. Wiergowski Adam
-1. Zielke Adam
 
 
 ### Egzamin poprawkowy (wrzesień)
@@ -65,8 +48,6 @@ Ostateczny termin pull requests z danymi upływa 24.08.2014.
 
 1. Basiak Paweł
 1. Budka Kamil
-1. [Całus Maciej](https://github.com/madox/myapp). [Baza](http://baza.meteor.com/)
-1. [Denejko Wojciech](/). [Kalendarz](http://kalendarz.meteor.com)
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Falęcki Jacek
@@ -81,9 +62,7 @@ Ostateczny termin pull requests z danymi upływa 24.08.2014.
 1. Pająkowski Adrian
 1. Paprocki Adam
 1. Perkowski Maciej
-1. Perkowski Maciej
 1. Szykuła Artur
-1. Turzyński Michał
 1. Wardzińska Justyna
 1. Wiergowski Adam
 1. Zielke Adam
