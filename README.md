@@ -21,7 +21,7 @@ Dane należy wpisać według formatu (wszystko w jednym wierszu):
 U góry strony *README.md* w repozytorium z kodem dodać ikonkę Travisa [build|passing],
 tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro).
 
-Ostateczny termin pull requests z danymi upływa 22.06.2014.
+Ostateczny termin pull requests z danymi upływa **22.06.2014**.
 
 1. Basiak Paweł
 1. Budka Kamil
@@ -44,7 +44,7 @@ Dane należy wpisać według formatu (wzystko w jednym wierszu):
 U góry strony *README.md* w repozytorium z kodem dodać ikonkę Travisa [build|passing],
 tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro).
 
-Ostateczny termin pull requests z danymi upływa 24.08.2014.
+Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 
 1. Basiak Paweł
 1. Budka Kamil
@@ -68,12 +68,17 @@ Ostateczny termin pull requests z danymi upływa 24.08.2014.
 1. Zielke Adam
 
 
-### Użyteczne narzędzia
+### 2014 → ∞
 
-- [GitHub Desktop](http://windows.github.com/)
-- [Sublime Text Editor](http://www.sublimetext.com/)
-- [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
-  (klucz publiczny, klucz prywatny; generowanie kluczy)
+- [ES.next showcase](https://github.com/sindresorhus/esnext-showcase)
+  - [JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
+- [Web Components](http://w3c.github.io/webcomponents/explainer/) –
+  [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
+  by Addy Osmani
+- [Docker](http://www.docker.com/) –  Build, Ship and Run Any App, Anywhere
+- [Meteor](https://www.meteor.com/):
+  [Discover Meteor](http://book.discovermeteor.com/)
+  ([polskie tłumaczenie](http://pl.discovermeteor.com/))
 
 
 ### Git
@@ -85,6 +90,6 @@ Ostateczny termin pull requests z danymi upływa 24.08.2014.
     [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
   - Dodajemy obrazki
   - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
-- Moja strona WWW na serwerze GitHub i strony repozytoriów
+- Moja strona WWW na serwerze GitHub i strony do moich repozytoriów
 - [Reveal.js](https://github.com/hakimel/reveal.js) –
   a framework for easily creating beautiful presentations using HTML
