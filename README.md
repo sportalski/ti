@@ -36,7 +36,7 @@ Napisać aplikację www korzystając z frameworka [Meteor](https://www.meteor.co
 Do kodu JavaScript dopisać testy. Testy podłączyć do
 platformy [Travis](https://travis-ci.com/plans) (wybrać FREE plan).
 
-Dane należy wpisać według formatu (wzystko w jednym wierszu):
+Dane należy wpisać według formatu (wszystko w jednym wierszu):
 
     1. [Nazwisko Imię](link do repozytorium z kodem).
     [Nazwa aplikacji](link do wdrożonej i działającej aplikacji)
