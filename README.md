@@ -61,7 +61,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. [Michalski Mateusz](https://github.com/matismatis93/MeteorApp). [Adresownik](http://adresownik.meteor.com)
 1. [Miszczykowski Mariusz](https://github.com/miszczyk/meteor-fbapp). [Tablica-ala-FB](http://projekt.meteor.com/)
 1. Mroczkowski Jacek
-1. Pająkowski Adrian
+1. [Pająkowski Adrian](https://github.com/apajakowski/chat) [Chat](http://apka.meteor.com)
 1. Paprocki Adam
 1. Perkowski Maciej
 1. Szykuła Artur
