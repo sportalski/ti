@@ -58,7 +58,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Kalarus Marcin
 1. Massalska Emilia
 1. Mazur Michał
-1. [Michalski Mateusz](https://github.com/matismatis93/MeteorApp).<br/>[Adresownik](http://adresownik.meteor.com)
+1. [Michalski Mateusz](https://github.com/matismatis93/MeteorApp). [Adresownik](http://adresownik.meteor.com)
 1. Miszczykowski Mariusz
 1. Mroczkowski Jacek
 1. Pająkowski Adrian
