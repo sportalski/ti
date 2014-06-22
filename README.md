@@ -26,7 +26,6 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 Ostateczny termin pull requests z danymi upływa **22.06.2014**.
 
 1. [Basiak Paweł](https://github.com/pbasiak). [StronaDomowa](http://pbasiak.github.io) [Leaflet Mapa](http://pbasiak.github.io/spec/leafletjs.html). [Zastosowane Technologie](http://slides.com/pbasiak/1-html#/)
-1. Budka Kamil
 1. Duchna Przemysław
 1. Dunikowski Jacek
 1. Gontarski Karol
