@@ -33,8 +33,8 @@ Niezaliczone laboratorium: Duchna Przemysław, Dunikowski Jacek, Gontarski Karol
 ### Egzamin poprawkowy (wrzesień)
 
 Napisać aplikację www korzystając z frameworka [Meteor](https://www.meteor.com/).
-Do kodu JavaScript dopisać testy. Testy podłączyć do
-platformy [Travis](https://travis-ci.com/plans) (wybrać FREE plan).
+Do kodu *JavaScript* dopisać testy (co najmniej kilkanaście; jeden nie wystarczy).
+Testy podłączyć do platformy [Travis](https://travis-ci.com/plans) (wybrać FREE plan).
 
 Dane należy wpisać według formatu (wszystko w jednym wierszu):
 
