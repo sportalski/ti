@@ -26,6 +26,7 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 Ostateczny termin pull requests z danymi upływa **22.06.2014**.
 
 1. [Basiak Paweł](https://github.com/pbasiak). [Strona domowa](http://pbasiak.github.io), [Leaflet](http://pbasiak.github.io/spec/leafletjs.html), [Zastosowane technologie](http://slides.com/pbasiak/1-html#/)
+1. Remigiusz Mrotek
 
 Niezaliczone laboratorium: Duchna Przemysław, Dunikowski Jacek, Gontarski Karol.
 
@@ -63,6 +64,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Wardzińska Justyna
 1. Wiergowski Adam
 1. Zielke Adam
+1. Remigiusz Mrotek
 
 
 ### 2014 → ∞
