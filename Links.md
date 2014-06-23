@@ -93,7 +93,6 @@ Tutorials:
 
 ----
 
-1. [Basiak Paweł](http://pbasiak.github.io)
 1. [Budka Kamil][g]
 1. Całus Maciej
 1. Duchna Przemysław
@@ -114,3 +113,5 @@ Tutorials:
 1. [Mariusz Miszczykowski](http://miszczyk.github.io/)
 1. [Zielke Adam](http://adamzielke.github.io/adam)
 1. [Mroczkowski Jacek](http://kks7717.github.io/visiting-card/)
+
+1. [Basiak Paweł](https://github.com/pbasiak). [Strona domowa](http://pbasiak.github.io), [Leaflet](http://pbasiak.github.io/spec/leafletjs.html), [Zastosowane technologie](http://slides.com/pbasiak/1-html#/)
