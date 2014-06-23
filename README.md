@@ -25,10 +25,9 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 
 Ostateczny termin pull requests z danymi upływa **22.06.2014**.
 
-1. [Basiak Paweł](https://github.com/pbasiak). [StronaDomowa](http://pbasiak.github.io) [Leaflet Mapa](http://pbasiak.github.io/spec/leafletjs.html). [Zastosowane Technologie](http://slides.com/pbasiak/1-html#/)
-1. Duchna Przemysław
-1. Dunikowski Jacek
-1. Gontarski Karol
+1. [Basiak Paweł](https://github.com/pbasiak). [Strona domowa](http://pbasiak.github.io), [Leaflet](http://pbasiak.github.io/spec/leafletjs.html), [Zastosowane technologie](http://slides.com/pbasiak/1-html#/)
+
+Niezaliczone laboratorium: Duchna Przemysław, Dunikowski Jacek, Gontarski Karol.
 
 
 ### Egzamin poprawkowy (wrzesień)
@@ -49,10 +48,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 
 1. Basiak Paweł
 1. Budka Kamil
-1. Duchna Przemysław
-1. Dunikowski Jacek
 1. Falęcki Jacek
-1. Gontarski Karol
 1. Hinz Karol
 1. Kalarus Marcin
 1. Massalska Emilia
