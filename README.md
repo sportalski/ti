@@ -47,7 +47,7 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 
 1. Basiak Paweł
-1. Budka Kamil
+1. [Budka Kamil](https://github.com/mperkowski/KNP-Meteor)[Kamien Papier Nożyce](http://knp.meteor.com)
 1. Denejko Wojiech
 1. Hinz Karol
 1. Kalarus Marcin
@@ -59,7 +59,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Mrotek Remigiusz
 1. [Pająkowski Adrian](https://github.com/apajakowski/chat). [Chat](http://apka.meteor.com)
 1. Paprocki Adam
-1. Perkowski Maciej
+1. [Perkowski Maciej](https://github.com/mperkowski/KNP-Meteor)[Kamien Papier Nożyce](http://knp.meteor.com)
 1. Szykuła Artur
 1. Wardzińska Justyna
 1. Wiergowski Adam
