@@ -25,9 +25,7 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 
 Ostateczny termin pull requests z danymi upływa **22.06.2014**.
 
-1. Mrotek Remigiusz
-
-Niezaliczone laboratorium: Duchna Przemysław, Dunikowski Jacek, Gontarski Karol.
+Niezaliczone laboratorium: Dunikowski Jacek, Gontarski Karol, Mrotek Remigiusz.
 
 
 ### Egzamin poprawkowy (wrzesień)
@@ -49,6 +47,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Basiak Paweł
 1. Budka Kamil
 1. Denejko Wojiech
+1. Duchna Przymysław
 1. Hinz Karol
 1. Kalarus Marcin
 1. Massalska Emilia
@@ -56,15 +55,13 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. [Michalski Mateusz](https://github.com/matismatis93/MeteorApp). [Adresownik](http://adresownik.meteor.com)
 1. [Miszczykowski Mariusz](https://github.com/miszczyk/meteor-fbapp). [Tablica-ala-FB](http://projekt.meteor.com/)
 1. Mroczkowski Jacek
-1. Mrotek Remigiusz
 1. [Pająkowski Adrian](https://github.com/apajakowski/chat). [Chat](http://apka.meteor.com)
 1. Paprocki Adam
 1. Perkowski Maciej
 1. Szykuła Artur
 1. Wardzińska Justyna
-1. Wiergowski Adam
-1. Zielke Adam
 1. [Paweł Wiergowski](https://github.com/pwiergowski). [Bootstrap+Angular](http://pwiergowski.github.io/). [Meteor](https://github.com/pwiergowski/pwiergowski-ti-meteor)
+1. Zielke Adam
 
 
 ### 2014 → ∞
