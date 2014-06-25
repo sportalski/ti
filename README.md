@@ -64,6 +64,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Wardzińska Justyna
 1. Wiergowski Adam
 1. Zielke Adam
+1. [Paweł Wiergowski](https://github.com/pwiergowski). [Bootstrap+Angular](http://pwiergowski.github.io/). [Meteor](https://github.com/pwiergowski/pwiergowski-ti-meteor)
 
 
 ### 2014 → ∞
