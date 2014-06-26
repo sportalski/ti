@@ -25,7 +25,7 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 
 Ostateczny termin pull requests z danymi upływa **22.06.2014**.
 
-Niezaliczone laboratorium: Ćwikowski Grzegorz, Dunikowski Jacek, Gontarski Karol, Mrotek Remigiusz.
+Niezaliczone laboratorium: Ćwikowski Grzegorz, Gontarski Karol, Mrotek Remigiusz.
 
 
 ### Egzamin poprawkowy (wrzesień)
