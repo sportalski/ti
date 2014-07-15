@@ -69,9 +69,11 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 
 - [ES.next showcase](https://github.com/sindresorhus/esnext-showcase)
   - [JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
-- [Web Components](http://w3c.github.io/webcomponents/explainer/) –
+- [Web Components](http://w3c.github.io/webcomponents/explainer/):
+  * Addy Osmani.
   [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
-  by Addy Osmani
+  * [Build and Share Web Components](https://ele.io/) – a streamlined environment for exploring,
+  experimenting with, and sharing reusable custom HTML elements made with Web Components
 - [Docker](http://www.docker.com/) –  Build, Ship and Run Any App, Anywhere
 - [Meteor](https://www.meteor.com/):
   [Discover Meteor](http://book.discovermeteor.com/)
