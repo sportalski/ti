@@ -60,7 +60,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Paprocki Adam
 1. [Perkowski Maciej](https://github.com/mperkowski/KNP-Meteor). [Kamien Papier Nożyce](http://knp.meteor.com)
 1. [Szykuła Artur - Github](https://github.com/aszykula/FotoApp-Meteor). [Portal - śmieszne fotki - Meteor](http://aszykula.meteor.com/)
-1. [Wardzińska Justyna - Github](https://github.com/wardzinskaj/czat). [Meteor czat](http://wardzinskaj.meteor.com/)
+1. [Wardzińska Justyna](https://github.com/wardzinskaj/czat). [Meteor czat](http://wardzinskaj.meteor.com/)
 1. [Paweł Wiergowski](https://github.com/pwiergowski). [Bootstrap+Angular](http://pwiergowski.github.io/). [Meteor](https://github.com/pwiergowski/pwiergowski-ti-meteor)
 1. Zielke Adam
 
