@@ -47,7 +47,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Basiak Paweł
 1. [Budka Kamil](https://github.com/mperkowski/KNP-Meteor). [Kamien Papier Nożyce](http://knp.meteor.com)
 1. Denejko Wojiech
-1. Duchna Przymysław
+1. [Duchna Przemysław](https://github.com/bizgho/tablicAPP). [TablicAPP - tablica szkolna](http://tablica22.meteor.com)
 1. Dunikowski Jacek
 1. Hinz Karol
 1. Kalarus Marcin
