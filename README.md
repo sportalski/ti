@@ -45,7 +45,7 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 
 1. Basiak Paweł
-1. [Budka Kamil](https://github.com/mperkowski/KNP-Meteor). [Kamien Papier Nożyce](http://knp.meteor.com)
+1. [Budka Kamil](https://github.com/kbudka/KPN). [Kamien Papier Nożyce](http://knp.meteor.com)
 1. Denejko Wojiech
 1. Duchna Przymysław
 1. Dunikowski Jacek
