@@ -62,7 +62,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. [Szykuła Artur - Github](https://github.com/aszykula/FotoApp-Meteor). [Portal - śmieszne fotki - Meteor](http://aszykula.meteor.com/)
 1. Wardzińska Justyna
 1. [Paweł Wiergowski](https://github.com/pwiergowski). [Bootstrap+Angular](http://pwiergowski.github.io/). [Meteor](https://github.com/pwiergowski/pwiergowski-ti-meteor)
-1. Zielke Adam
+1.  [Adam Zielke](https://github.com/AdamZielke/meteor). [Dodawanie filmikow](http://adamzielke.meteor.com/)
 
 
 ### 2014 → ∞
