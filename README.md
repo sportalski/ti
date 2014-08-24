@@ -57,7 +57,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. [Miszczykowski Mariusz](https://github.com/miszczyk/meteor-fbapp). [Tablica-ala-FB](http://fb-app2.meteor.com/)
 1. Mroczkowski Jacek
 1. [Pająkowski Adrian](https://github.com/apajakowski/chat). [Chat](http://apka.meteor.com)
-1. Paprocki Adam
+1. [Paprocki Adam](https://github.com/paprot/TI). [Sklep elektroniczny](http://elektrasklep.meteor.com)
 1. [Perkowski Maciej](https://github.com/mperkowski/KNP). [Kamien Papier Nożyce](http://knp.meteor.com)
 1. [Szykuła Artur - Github](https://github.com/aszykula/FotoApp-Meteor). [Portal - śmieszne fotki - Meteor](http://aszykula.meteor.com/)
 1. [Wardzińska Justyna](https://github.com/wardzinskaj/czat). [Meteor czat](http://wardzinskaj.meteor.com/)
