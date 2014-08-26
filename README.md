@@ -49,6 +49,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Denejko Wojiech
 1. [Duchna Przemysław](https://github.com/bizgho/tablicAPP). [TablicAPP - tablica szkolna](http://tablica22.meteor.com)
 1. Dunikowski Jacek
+1. [Falęcki Jacek](https://github.com/jfalecki/meteor_projekt). [wyślij maila](http://techintntertest1.meteor.com/) 
 1. Hinz Karol
 1. Kalarus Marcin
 1. [Massalska Emilia](https://github.com/emassalska/meteor) [Meteor](http://emitest.meteor.com/)
