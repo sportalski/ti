@@ -48,7 +48,6 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Denejko Wojiech
 1. [Dunikowski Jacek](https://github.com/jaca22/pytamyApp). [pytaMy](http://pytamy.meteor.com)
 1. [Falęcki Jacek](https://github.com/jfalecki/meteor_projekt). [wyślij maila](http://techintntertest1.meteor.com/)
-1. [Hinz Karol](https://github.com/khinz/przedmioty_UG). [Dziennik internetowy](http://dziennik_internetowy.meteor.com)
 1. Kalarus Marcin
 1. [Mazur Michał](https://github.com/MajkelMatusaf/ti2)[Manager projektów](http://managerprojektow.meteor.com)
 1. [Michalski Mateusz](https://github.com/matismatis93/MeteorApp). [Adresownik](http://adresownik.meteor.com)
