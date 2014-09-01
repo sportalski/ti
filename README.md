@@ -48,16 +48,14 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Denejko Wojiech
 1. [Dunikowski Jacek](https://github.com/jaca22/pytamyApp). [pytaMy](http://pytamy.meteor.com)
 1. [Falęcki Jacek](https://github.com/jfalecki/meteor_projekt). [wyślij maila](http://techintntertest1.meteor.com/)
-1. Hinz Karol
+1. [Hinz Karol](https://github.com/khinz/przedmioty_UG). [Dziennik internetowy](http://dziennik_internetowy.meteor.com)
 1. Kalarus Marcin
-1. [Massalska Emilia](https://github.com/emassalska/meteor). [Meteor](http://emitest.meteor.com/)
 1. [Mazur Michał](https://github.com/MajkelMatusaf/ti2)[Manager projektów](http://managerprojektow.meteor.com)
 1. [Michalski Mateusz](https://github.com/matismatis93/MeteorApp). [Adresownik](http://adresownik.meteor.com)
 1. [Miszczykowski Mariusz](https://github.com/miszczyk/meteor-fbapp). [Tablica-ala-FB](http://fb-app2.meteor.com/)
 1. Mroczkowski Jacek
 1. [Paprocki Adam](https://github.com/paprot/TI). [Sklep elektroniczny](http://elektrasklep.meteor.com)
 1. [Perkowski Maciej](https://github.com/mperkowski/KNP). [Kamien Papier Nożyce](http://knp.meteor.com)
-1. [Wardzińska Justyna](https://github.com/wardzinskaj/czat). [Meteor czat](http://wardzinskaj.meteor.com/)
 1. [Paweł Wiergowski](https://github.com/pwiergowski). [Bootstrap+Angular](http://pwiergowski.github.io/). [Meteor](https://github.com/pwiergowski/pwiergowski-ti-meteor)
 
 
