@@ -1,0 +1,8 @@
+1. [Basiak Paweł](https://github.com/pbasiak/notes). [MeteoNote](http://pbnotes.meteor.com)
+1. [Duchna Przemysław](https://github.com/bizgho/tablicAPP). [TablicAPP - tablica szkolna](http://tablica22.meteor.com)
+1. [Hinz Karol](https://github.com/khinz/przedmioty_UG). [Dziennik internetowy](http://dziennik_internetowy.meteor.com)
+1. [Massalska Emilia](https://github.com/emassalska/meteor). [Meteor](http://emitest.meteor.com/)
+1. [Pająkowski Adrian](https://github.com/apajakowski/chat). [Chat](http://apka.meteor.com)
+1. [Szykuła Artur – Github](https://github.com/aszykula/FotoApp-Meteor). [Portal - śmieszne fotki - Meteor](http://aszykula.meteor.com/)
+1. [Wardzińska Justyna](https://github.com/wardzinskaj/czat). [Meteor czat](http://wardzinskaj.meteor.com/)
+1. [Adam Zielke](https://github.com/AdamZielke/meteor). [Dodawanie filmikow](http://adamzielke.meteor.com/)
