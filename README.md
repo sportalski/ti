@@ -45,7 +45,6 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 
 1. Denejko Wojciech
-1. [Dunikowski Jacek](https://github.com/jaca22/pytamyApp). [pytaMy](http://pytamy.meteor.com)
 1. Kalarus Marcin
 1. Mroczkowski Jacek
 1. [Paprocki Adam](https://github.com/paprot/TI). [Sklep elektroniczny](http://elektrasklep.meteor.com)

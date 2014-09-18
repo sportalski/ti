@@ -1,6 +1,7 @@
 1. [Basiak Paweł](https://github.com/pbasiak/notes). [MeteoNote](http://pbnotes.meteor.com)
 1. [Budka Kamil](https://github.com/kbudka/KPN). [Kamien Papier Nożyce](http://knp.meteor.com)
 1. [Duchna Przemysław](https://github.com/bizgho/tablicAPP). [TablicAPP - tablica szkolna](http://tablica22.meteor.com)
+1. [Dunikowski Jacek](https://github.com/jaca22/pytamyApp). [pytaMy](http://pytamy.meteor.com)
 1. [Falęcki Jacek](https://github.com/jfalecki/meteor_projekt). [wyślij maila](http://techintntertest1.meteor.com/)
 1. [Hinz Karol](https://github.com/khinz/przedmioty_UG). [Dziennik internetowy](http://dziennik_internetowy.meteor.com)
 1. [Massalska Emilia](https://github.com/emassalska/meteor). [Meteor](http://emitest.meteor.com/)
