@@ -83,6 +83,8 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 
 ### 2015 → ∞
 
+- Nicholas C. Zakas.
+  [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 - [ES.next showcase](https://github.com/sindresorhus/esnext-showcase)
   - [JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
 - [Web Components](http://w3c.github.io/webcomponents/explainer/):
