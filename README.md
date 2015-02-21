@@ -7,10 +7,10 @@
 Terminy rozliczenia się z projektów:
 
 * ***zaliczenie***: **ISODate("2015-03-24T12:00:00.000Z")**<br>
-  opóźnienie do 48h – ocena -1, więcej – ocena -2
+  nierozliczenie się z projektu w terminie powoduje obniżenie oceny
 * ***egzamin***: **ISODate("2015-05-12T12:00:00.000Z")**<br>
-  opóźnienie do 48h – ocena -1, więcej – egzamin poprawkowy
-  we wrześniu
+  nierozliczenie się z projektu w terminie oznacza ocenę ndst
+  z egzaminu; na egzamin poprawkowy zostaną wyznaczone nowe projekty
 
 Projekty tworzymy w repozytoriach Git na *GitHub* lub *Bitbucket*.
 Projekt na egzamin umieszczamy w repozytorium prywatnym.
