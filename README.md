@@ -84,7 +84,7 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 ### 2015 → ∞
 
 [JavaScript in 2015](http://glenmaddern.com/articles/javascript-in-2015)
-([YouTube](https://www.youtube.com/watch?v=iukBMY4apvI):
+([YouTube](https://www.youtube.com/watch?v=iukBMY4apvI)):
 
 - Nicholas C. Zakas.
   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
