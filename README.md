@@ -1,39 +1,75 @@
-## Techniki Internetowe, 2013/2014
+## Techniki Internetowe, 14/15
 
-Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Techniki Internetowe”.
+> *Uważaj na człowieka, którego nie interesują szczegóły.*
+>
+> — William Feather
 
-**UWAGA:** Panów Gontarskiego, Mazura nie mam na liście z dziekanatu.
+Terminy rozliczenia się z projektów:
 
-### Zaliczenie (poprawka)
+* ***zaliczenie***: **ISODate("2015-04-02T12:00:00.000Z")**<br>
+  opóźnienie do 48h – ocena -1, więcej – ocena -2
+* ***egzamin***: **ISODate("2015-05-22T12:00:00.000Z")**<br>
+  opóźnienie do 48h – ocena -1, więcej – egzamin poprawkowy
+  we wrześniu
 
-1\. Przygotowac stronę korzystająca z bibliotek [Leaflet](http://leafletjs.com/)
-i [localForage](https://github.com/mozilla/localForage).
-Do kodu JavaScript dopisać testy. Testy podłączyć do
-platformy [Travis](https://travis-ci.com/plans) (wybrać FREE plan).
+Projekty tworzymy w repozytoriach Git na *GitHub* lub *Bitbucket*.
+Projekt na egzamin umieszczamy w repozytorium prywatnym.
+W repozytoriach nie powinno być śmieci, np. plików backup edytora.
 
-2\. Przygotować pokaz slajdów w [Reveal.js](http://lab.hakim.se/reveal-js/)
-szczegółowo opisujący jak przygotowywano tę stronę.
 
+### Zaliczenie
+
+1\. Zapoznajemy się z notacjami:
+
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) –
+  Github-flavored
+* [reStructuredText Primer](http://sphinx-doc.org/rest.html)
+* [AsciiDoc](http://www.methods.co.nz/asciidoc/); zob. też
+  [Pro Git Book, ed. 2](https://github.com/progit/progit2)
+
+Korzystając z jednej z tych notacji przygotować tabelkę porównującą te notacje.
+Przepisać tę tabelkę w *czystym* HTML5. Wnioski?
+
+W których z tych notacji można wpisywać wzory w notacji LaTeX? (zob. na przykład
+[Math in reStructuredText with LaTeX](http://stackoverflow.com/questions/3610551/math-in-restructuredtext-with-latex))
+
+2\. [GitHub Pages](https://pages.github.com). Przygotować
+responsywne *project site pages*.
+
+Przygotować *user site pages* korzystające z jednego z frameworków:
+
+* [Foundation](http://foundation.zurb.com)
+* [Bootstrap](http://getbootstrap.com)
+
+Na jednej ze stron użyć biblioteki [Leaflet](http://leafletjs.com/).
+
+3\. Przygotować pokaz slajdów w [Reveal.js](http://lab.hakim.se/reveal-js/)
+szczegółowo opisujący jak wdrożyć [przykładową aplikację Meteor](https://www.meteor.com/install)
+na zewnętrznym serwerze
+[Digital Ocean](http://devo.ps/blog/deploy-your-meteor-apps-on-digital-ocean-in-5-minutes/)
+lub [Heroku](http://ondrej-kvasnovsky.blogspot.com/2013/05/how-to-deploy-meteor-on-heroku-with.html)
+
+Listę przykładowych aplikacji wypisze to polecenie:
+```console
+$ meteor create --list
+```
+
+<!--
 Dane należy wpisać według formatu (wszystko w jednym wierszu):
 
     1. [Nazwisko Imię](link do repozytorium z kodem).
        [Nazwa aplikacji korzystającej z Leaflet](link do działającej aplikacji),
        [Tytuł prezentacji](link do działających slajdów).
-
-U góry strony *README.md* w repozytorium z kodem dodać ikonkę Travisa [build|passing],
-tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro).
-
-Ostateczny termin pull requests z danymi upływa **22.06.2014**.
-
-Niezaliczone laboratorium: Ćwikowski Grzegorz, Gontarski Karol, Mrotek Remigiusz.
+-->
 
 
-### Egzamin poprawkowy (wrzesień)
+### Egzamin
 
-Napisać aplikację www korzystając z frameworka [Meteor](https://www.meteor.com/).
+Przygotować prostą aplikację WWW korzystając z frameworka [Meteor](https://www.meteor.com/).
 Do kodu *JavaScript* dopisać testy (co najmniej kilkanaście; jeden nie wystarczy).
 Testy podłączyć do platformy [Travis](https://travis-ci.com/plans) (wybrać FREE plan).
 
+<!--
 Dane należy wpisać według formatu (wszystko w jednym wierszu):
 
     1. [Nazwisko Imię](link do repozytorium z kodem).
@@ -41,14 +77,7 @@ Dane należy wpisać według formatu (wszystko w jednym wierszu):
 
 U góry strony *README.md* w repozytorium z kodem dodać ikonkę Travisa [build|passing],
 tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro).
-
-Ostateczny termin pull requests z danymi upływa **24.08.2014**.
-
-1. Denejko Wojciech
-1. Kalarus Marcin
-1. Mroczkowski Jacek
-1. [Paprocki Adam](https://github.com/paprot/TI). [Sklep elektroniczny](http://elektrasklep.meteor.com)
-1. [Paweł Wiergowski](https://github.com/pwiergowski/pwiergowski-ti-meteor). [Meteor](/)
+-->
 
 
 ### 2014 → ∞
@@ -66,15 +95,8 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
   ([polskie tłumaczenie](http://pl.discovermeteor.com/))
 
 
-### Git
+### Różne rzeczy
 
-- Zakładamy konto na serwerze GitHub
-- Tworzymy pierwsze repozytorium na GitHub
-- [Mastering Markdown](http://daringfireball.net/projects/markdown/syntax)
-  - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/) +
-    [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
-  - Dodajemy obrazki
-  - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
-- Moja strona WWW na serwerze GitHub i strony do moich repozytoriów
-- [Reveal.js](https://github.com/hakimel/reveal.js) –
-  a framework for easily creating beautiful presentations using HTML
+- [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/) +
+  [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
+- [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
