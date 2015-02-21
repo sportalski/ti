@@ -83,6 +83,8 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 
 ### 2015 → ∞
 
+[JavaScript in 2015](http://glenmaddern.com/articles/javascript-in-2015):
+
 - Nicholas C. Zakas.
   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 - [ES.next showcase](https://github.com/sindresorhus/esnext-showcase)
@@ -90,6 +92,11 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 - [Web Components](http://w3c.github.io/webcomponents/explainer/):
   * Addy Osmani.
   [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
+
+
+Reszta:
+
+- [Pro Git Book](http://git-scm.com/book/en/v2)
 - [Docker](http://www.docker.com/) –  Build, Ship and Run Any App, Anywhere
 - [Meteor](https://www.meteor.com/):
   [Discover Meteor](http://book.discovermeteor.com/)
@@ -98,7 +105,6 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 
 ### Różne rzeczy
 
-- [Pro Git Book](http://git-scm.com/book/en/v2)
 - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/) +
   [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
 - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
