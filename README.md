@@ -67,7 +67,7 @@ Dane należy wpisać według formatu (wszystko w jednym wierszu):
 ### Egzamin
 
 Przygotować prostą aplikację WWW korzystając z frameworka [Meteor](https://www.meteor.com/).
-Do kodu *JavaScript* dopisać testy (co najmniej kilkanaście; jeden nie wystarczy).
+Do kodu *JavaScript* dopisać testy (co najmniej kilkanaście).
 Testy podłączyć do platformy [Travis](https://travis-ci.com/plans) (wybrać FREE plan).
 
 <!--
