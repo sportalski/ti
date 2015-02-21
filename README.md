@@ -47,7 +47,7 @@ oraz użyć kilku *web components* z biblioteki [Polymer](https://www.polymer-pr
 szczegółowo opisujący jak wdrożyć [przykładową aplikację Meteor](https://www.meteor.com/install)
 na zewnętrznym serwerze
 [Digital Ocean](http://devo.ps/blog/deploy-your-meteor-apps-on-digital-ocean-in-5-minutes/)
-lub [Heroku](http://ondrej-kvasnovsky.blogspot.com/2013/05/how-to-deploy-meteor-on-heroku-with.html)
+lub [Heroku](http://ondrej-kvasnovsky.blogspot.com/2013/05/how-to-deploy-meteor-on-heroku-with.html).
 
 Po instalacji frameworka [Meteor](https://www.meteor.com/install)
 listę przykładowych aplikacji wypisze to polecenie:
