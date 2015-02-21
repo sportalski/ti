@@ -34,7 +34,6 @@ W których z tych notacji można wpisywać wzory w notacji LaTeX? (zob. na przyk
 [Math in reStructuredText with LaTeX](http://stackoverflow.com/questions/3610551/math-in-restructuredtext-with-latex))
 
 2\. [GitHub Pages](https://pages.github.com).
-
 Przygotować responsywne *user* lub *project site* korzystające
 z jednego z frameworków:
 
