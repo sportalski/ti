@@ -94,6 +94,10 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
   * Addy Osmani.
   [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
 
+CSS in 2015:
+
+- [Less](http://lesscss.org)
+- [Sass](http://sass-lang.com)
 
 Reszta:
 
