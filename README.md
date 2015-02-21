@@ -96,6 +96,7 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 
 ### Różne rzeczy
 
+- [Pro Git Book](http://git-scm.com/book/en/v2)
 - [GitHub Flavored Markdown](http://guides.github.com/overviews/mastering-markdown/) +
   [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
 - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
