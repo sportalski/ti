@@ -33,15 +33,16 @@ Przepisać tę tabelkę w *czystym* HTML5. Wnioski?
 W których z tych notacji można wpisywać wzory w notacji LaTeX? (zob. na przykład
 [Math in reStructuredText with LaTeX](http://stackoverflow.com/questions/3610551/math-in-restructuredtext-with-latex))
 
-2\. [GitHub Pages](https://pages.github.com). Przygotować
-responsywne *project site pages*.
+2\. [GitHub Pages](https://pages.github.com).
 
-Przygotować *user site pages* korzystające z jednego z frameworków:
+Przygotować responsywne *user* lub *project site* korzystające
+z jednego z frameworków:
 
 * [Foundation](http://foundation.zurb.com)
 * [Bootstrap](http://getbootstrap.com)
 
-Na jednej ze stron użyć biblioteki [Leaflet](http://leafletjs.com/).
+Na stronach wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/)
+oraz użyć kilku *web components* z biblioteki [Polymer](https://www.polymer-project.org).
 
 3\. Przygotować pokaz slajdów w [Reveal.js](http://lab.hakim.se/reveal-js/)
 szczegółowo opisujący jak wdrożyć [przykładową aplikację Meteor](https://www.meteor.com/install)
@@ -80,7 +81,7 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 -->
 
 
-### 2014 → ∞
+### 2015 → ∞
 
 - [ES.next showcase](https://github.com/sindresorhus/esnext-showcase)
   - [JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
