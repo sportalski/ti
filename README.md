@@ -31,7 +31,7 @@ Korzystając z jednej z tych notacji przygotować tabelkę porównującą te not
 Przepisać tę tabelkę w *czystym* HTML5. Wnioski?
 
 W których z tych notacji można wpisywać wzory w notacji LaTeX? (zob. na przykład
-[Math in reStructuredText with LaTeX](http://stackoverflow.com/questions/3610551/math-in-restructuredtext-with-latex))
+[Math in reStructuredText with LaTeX](http://stackoverflow.com/questions/3610551/math-in-restructuredtext-with-latex)).
 
 2\. [GitHub Pages](https://pages.github.com).
 Przygotować responsywne *user* lub *project site* korzystające
@@ -49,7 +49,8 @@ na zewnętrznym serwerze
 [Digital Ocean](http://devo.ps/blog/deploy-your-meteor-apps-on-digital-ocean-in-5-minutes/)
 lub [Heroku](http://ondrej-kvasnovsky.blogspot.com/2013/05/how-to-deploy-meteor-on-heroku-with.html)
 
-Listę przykładowych aplikacji wypisze to polecenie:
+Po instalacji frameworka [Meteor](https://www.meteor.com/install)
+listę przykładowych aplikacji wypisze to polecenie:
 ```console
 $ meteor create --list
 ```
@@ -87,8 +88,6 @@ tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro
 - [Web Components](http://w3c.github.io/webcomponents/explainer/):
   * Addy Osmani.
   [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
-  * [Build and Share Web Components](https://ele.io/) – a streamlined environment for exploring,
-  experimenting with, and sharing reusable custom HTML elements made with Web Components
 - [Docker](http://www.docker.com/) –  Build, Ship and Run Any App, Anywhere
 - [Meteor](https://www.meteor.com/):
   [Discover Meteor](http://book.discovermeteor.com/)
