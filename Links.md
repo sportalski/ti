@@ -89,29 +89,3 @@ Tutorials:
 
 - Manuel Schoebel.
   [Login required for an url done right](http://www.manuel-schoebel.com/blog/login-required-for-an-url-done-right)
-
-
-----
-
-1. [Budka Kamil][g]
-1. Całus Maciej
-1. Duchna Przemysław
-1. [Dunikowski Jacek](http://jaca22.github.io)
-1. [Falęcki Jacek](http://jfalecki.github.io/TechInter/)
-1. Gontarski Karol
-1. Massalska Emilia
-1. Mroczkowski Jacek
-1. [Michalski Mateusz](http://matismatis93.github.io/matmic/)
-1. Mazur Michał
-1. [Pająkowski Adrian](http://apajakowski.github.io)
-1. [Paprocki Adam](http://paprot.github.io/)
-1. Kalarus Marcin
-1. Hinz Karol
-1. [Perkowski Maciej](http://mperkowski.github.io/tabelki-1/)
-1. [Szykuła Artur](http://aszykula.github.io/)
-1. Wardzińska Justyna
-1. [Mariusz Miszczykowski](http://miszczyk.github.io/)
-1. [Zielke Adam](http://adamzielke.github.io/adam)
-1. [Mroczkowski Jacek](http://kks7717.github.io/visiting-card/)
-
-1. [Basiak Paweł](https://github.com/pbasiak). [Strona domowa](http://pbasiak.github.io), [Leaflet](http://pbasiak.github.io/spec/leafletjs.html), [Zastosowane technologie](http://slides.com/pbasiak/1-html#/)
