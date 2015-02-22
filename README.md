@@ -43,18 +43,6 @@ z jednego z frameworków:
 Na stronach wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/)
 oraz użyć kilku *web components* z biblioteki [Polymer](https://www.polymer-project.org).
 
-3\. Przygotować pokaz slajdów w [Reveal.js](http://lab.hakim.se/reveal-js/)
-szczegółowo opisujący jak wdrożyć [przykładową aplikację Meteor](https://www.meteor.com/install)
-na zewnętrznym serwerze
-[Digital Ocean](http://devo.ps/blog/deploy-your-meteor-apps-on-digital-ocean-in-5-minutes/)
-lub [Heroku](http://ondrej-kvasnovsky.blogspot.com/2013/05/how-to-deploy-meteor-on-heroku-with.html).
-
-Po instalacji frameworka [Meteor](https://www.meteor.com/install)
-listę przykładowych aplikacji wypisze to polecenie:
-```console
-$ meteor create --list
-```
-
 <!--
 Dane należy wpisać według formatu (wszystko w jednym wierszu):
 
@@ -66,9 +54,21 @@ Dane należy wpisać według formatu (wszystko w jednym wierszu):
 
 ### Egzamin
 
-Przygotować prostą aplikację WWW korzystając z frameworka [Meteor](https://www.meteor.com/).
+1\. Przygotować prostą aplikację WWW korzystając z frameworka [Meteor](https://www.meteor.com/).
 Do kodu *JavaScript* dopisać testy (co najmniej kilkanaście).
 Testy podłączyć do platformy [Travis](https://travis-ci.com/plans) (wybrać FREE plan).
+
+2\. Przygotować pokaz slajdów w [Reveal.js](http://lab.hakim.se/reveal-js/)
+szczegółowo opisujący jak wdrożyć [przykładową aplikację Meteor](https://www.meteor.com/install)
+na zewnętrznym serwerze
+[Digital Ocean](http://devo.ps/blog/deploy-your-meteor-apps-on-digital-ocean-in-5-minutes/)
+lub [Heroku](http://ondrej-kvasnovsky.blogspot.com/2013/05/how-to-deploy-meteor-on-heroku-with.html).
+
+Po instalacji frameworka [Meteor](https://www.meteor.com/install)
+listę przykładowych aplikacji wypisze to polecenie:
+```console
+$ meteor create --list
+```
 
 <!--
 Dane należy wpisać według formatu (wszystko w jednym wierszu):
