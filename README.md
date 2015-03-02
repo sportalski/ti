@@ -45,14 +45,6 @@ z jednego z frameworków:
 Na stronach wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/)
 oraz użyć kilku *web components* z biblioteki [Polymer](https://www.polymer-project.org).
 
-<!--
-Dane należy wpisać według formatu (wszystko w jednym wierszu):
-
-    1. [Nazwisko Imię](link do repozytorium z kodem).
-       [Nazwa aplikacji korzystającej z Leaflet](link do działającej aplikacji),
-       [Tytuł prezentacji](link do działających slajdów).
--->
-
 
 ### Egzamin
 
