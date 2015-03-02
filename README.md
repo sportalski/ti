@@ -45,6 +45,11 @@ z jednego z frameworków:
 Na stronach wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/)
 oraz użyć kilku *web components* z biblioteki [Polymer](https://www.polymer-project.org).
 
+----
+
+Pull requests z linkami do projektów na zaliczenie należy wpisać
+w pliku [laboratoria.md](laboratoria.md).
+
 
 ### Egzamin
 
