@@ -47,7 +47,7 @@ oraz użyć kilku *web components* z biblioteki [Polymer](https://www.polymer-pr
 
 ----
 
-Pull requests z linkami do projektów na zaliczenie należy wpisać
+Pull requests z linkami do projektów na zaliczenie i egzamin należy wpisać
 w pliku [laboratoria.md](laboratoria.md).
 
 
@@ -69,15 +69,16 @@ listę przykładowych aplikacji wypisze to polecenie:
 $ meteor create --list
 ```
 
-<!--
-Dane należy wpisać według formatu (wszystko w jednym wierszu):
+Użyteczne linki:
 
-    1. [Nazwisko Imię](link do repozytorium z kodem).
-    [Nazwa aplikacji](link do wdrożonej i działającej aplikacji)
-
-U góry strony *README.md* w repozytorium z kodem dodać ikonkę Travisa [build|passing],
-tak jak to zrobiono na stronie [RSpec Intro](https://github.com/wbzyl/ruby-intro).
--->
+- Marijn Haverbeke.
+  [Eloquent JavaScript – A Modern Introduction to Programming](http://eloquentjavascript.net/)
+- [Meteor](https://www.meteor.com/)
+- David Turnbull.
+  [Your First Meteor Application](http://meteortips.com/book/) –
+  a Complete Beginner’s Guide to the Meteor JavaScript Framework
+- [Discover Meteor](http://book.discovermeteor.com/)
+  ([polskie tłumaczenie](http://pl.discovermeteor.com/))
 
 
 ### 2015 → ∞
@@ -102,9 +103,6 @@ Reszta:
 
 - [Pro Git Book](http://git-scm.com/book/en/v2)
 - [Docker](http://www.docker.com/) –  Build, Ship and Run Any App, Anywhere
-- [Meteor](https://www.meteor.com/):
-  [Discover Meteor](http://book.discovermeteor.com/)
-  ([polskie tłumaczenie](http://pl.discovermeteor.com/))
 
 
 ### Różne rzeczy
