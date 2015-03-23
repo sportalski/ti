@@ -32,7 +32,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. Skowroński, Mateusz
 1. Tomasik, Przemysław
 1. Wiergowski, Paweł
-
+ [Eggert Marek]{http://marek4f.github.io). [Notacje](https://github.com/Marek4f/techniki/tree/master) [tabelka tv](http://marek4f.github.io/tv.html)
 
 ## Egzamin
 
