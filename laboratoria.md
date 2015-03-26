@@ -25,7 +25,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. Lipiński, Michał
 1. Mrotek, Remigiusz
 1. Piątek, Mariusz
-1. Ponieważ, Paweł
+1. [Ponieważ Paweł](http://pponiewaz.github.io). [Notacje](https://github.com/pponiewaz/TI).
 1. Portalski, Sylwester
 1. Ruchlewicz, Natalia
 1. Samsoniuk, Damian
