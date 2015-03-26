@@ -28,7 +28,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. Ponieważ, Paweł
 1. Portalski, Sylwester
 1. Ruchlewicz, Natalia
-1. Samsoniuk, Damian (dsamsoniuk.github.io), repo: github.com/dsamsoniuk/dsamsoniuk.github.io
+1. Samsoniuk, Damian [1](github.com/dsamsoniuk/laboratoria)[2](dsamsoniuk.github.io)
 1. Skowroński, Mateusz
 1. Tomasik, Przemysław
 1. Wiergowski, Paweł
