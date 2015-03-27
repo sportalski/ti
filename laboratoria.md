@@ -30,7 +30,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. Ruchlewicz, Natalia
 1. Samsoniuk, Damian
 1. Skowroński, Mateusz
-1. Tomasik, Przemysław
+1. [Tomasik Przemysław](http://ptomasik1.github.io/). [Notacje](https://github.com/ptomasik1/Zaliczenie-TI-2015).
 1. Wiergowski, Paweł
 
 
