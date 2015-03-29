@@ -16,7 +16,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. Blum, Bartosz
 1. Brzozowski, Patryk
 1. Chylicki, Adrian
-1. Eggert, Marek
+1. [Eggert, Marek](http://marek4f.github.io/). [notacje](https://github.com/Marek4f/techniki) [tv]()http://marek4f.github.io/tv.html
 1. Jakubek, Daniel
 1. Kowalska, Joanna
 1. Krajnik, Martyna
