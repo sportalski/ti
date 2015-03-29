@@ -11,7 +11,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 
 ```console
 1. [Nazwisko Imię](link do strony na GitHub). [Notacje](link do repo z kodem).
-```
+```[Natalia Ruchlewicz](http://nruchlewicz.github.io/). [notacje](https://github.com/nruchlewicz/Techniki-lab)
 
 1. Blum, Bartosz
 1. Brzozowski, Patryk
