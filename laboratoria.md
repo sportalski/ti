@@ -20,7 +20,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. Jakubek, Daniel
 1. [Kowalska Joanna](http://jkowalska.github.io). [Notacje](https://github.com/jkowalska/LabTI).
 1. [Krajnik, Martyna](http://mkrajnik.github.io/). [Repozytorium](https://github.com/mkrajnik/Techniki-Internetowe).
-1. Krzychowiec, Rafał
+1. [Krzychowiec Rafał](http://stringhead.github.io/index.html). [Notacje](https://github.com/StringHead/Techniki-internetowe/blob/master/README.md).
 1. Kupniewski, Rafał
 1. Lipiński, Michał
 1. Mrotek, Remigiusz
