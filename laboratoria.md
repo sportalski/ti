@@ -16,10 +16,10 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. Blum, Bartosz
 1. Brzozowski, Patryk
 1. Chylicki, Adrian
-1. [Eggert, Marek](http://marek4f.github.io/). [notacje](https://github.com/Marek4f/techniki) [tv]()http://marek4f.github.io/tv.html
+1. [Eggert, Marek](http://marek4f.github.io/). [Notacje](https://github.com/Marek4f/techniki), [TV](http://marek4f.github.io/tv.html).
 1. Jakubek, Daniel
-1. Kowalska, Joanna
-1. Krajnik, Martyna
+1. [Kowalska Joanna](http://jkowalska.github.io). [Notacje](https://github.com/jkowalska/LabTI).
+1. [Krajnik, Martyna](http://mkrajnik.github.io/). [Repozytorium](https://github.com/mkrajnik/Techniki-Internetowe).
 1. Krzychowiec, Rafał
 1. Kupniewski, Rafał
 1. Lipiński, Michał
@@ -28,11 +28,11 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Ponieważ Paweł](http://pponiewaz.github.io). [Notacje](https://github.com/pponiewaz/TI).
 1. Portalski, Sylwester
 1. Ruchlewicz, Natalia
-1. Samsoniuk, Damian [1](github.com/dsamsoniuk/laboratoria)[2](dsamsoniuk.github.io)
+1. [Samsoniuk, Damian](http://dsamsoniuk.github.io). [Notacje](github.com/dsamsoniuk/laboratoria).
 1. Skowroński, Mateusz
 1. [Tomasik Przemysław](http://ptomasik1.github.io/). [Notacje](https://github.com/ptomasik1/Zaliczenie-TI-2015).
 1. Wiergowski, Paweł
- [Eggert Marek]{http://marek4f.github.io). [Notacje](https://github.com/Marek4f/techniki/tree/master) [tabelka tv](http://marek4f.github.io/tv.html)
+
 
 ## Egzamin
 
@@ -41,3 +41,5 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 ```console
 1. [Nazwa zespołu](link do PRYWATNEGO repo z kodem). [Nazwa aplikacji](link do aplikacji na Heroku).
 ```
+
+1. [Hinz Karol](https://github.com/khinz/przedmioty_UG). [Dziennik internetowy](http://dziennik_internetowy.meteor.com)
