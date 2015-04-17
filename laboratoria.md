@@ -20,8 +20,8 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Ponieważ Paweł](http://pponiewaz.github.io). [Notacje](https://github.com/pponiewaz/TI). L, P, MA
 1. [Portalski, Sylwester](http://sportalski.github.io). [Notacje](http://github.com/sportalski/techniki-lab). P, MA
 1. [Ruchlewicz, Natalia](http://nruchlewicz.github.io/). [Notacje](https://github.com/nruchlewicz/Techniki-lab). P, MA
-1. [Samsoniuk, Damian](http://dsamsoniuk.github.io). [Notacje](github.com/dsamsoniuk/laboratoria).
-1. [Tomasik Przemysław](http://ptomasik1.github.io/). [Notacje](https://github.com/ptomasik1/Zaliczenie-TI-2015).
+1. [Samsoniuk, Damian](http://dsamsoniuk.github.io). [Notacje](github.com/dsamsoniuk/laboratoria). P
+1. [Tomasik Przemysław](http://ptomasik1.github.io/). [Notacje](https://github.com/ptomasik1/Zaliczenie-TI-2015). P
 
 ----
 
