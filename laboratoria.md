@@ -11,15 +11,15 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 ```
 -->
 
-1. [Eggert, Marek](http://marek4f.github.io/). [Notacje](https://github.com/Marek4f/techniki), [TV](http://marek4f.github.io/tv.html).
-1. [Jakubek, Daniel](http://kassszub.github.io/). [Notacje](https://github.com/kassszub/ti-md-ascii-web).
-1. [Kowalska Joanna](http://jkowalska.github.io). [Notacje](https://github.com/jkowalska/LabTI).
-1. [Krajnik, Martyna](http://mkrajnik.github.io/). [Repozytorium](https://github.com/mkrajnik/Techniki-Internetowe).
-1. [Krzychowiec Rafał](http://stringhead.github.io/index.html). [Notacje](https://github.com/StringHead/Techniki-internetowe/blob/master/README.md).
-1. [Kupniewski, Rafał](http://rkupniewski.github.io/). Notacje.
-1. [Ponieważ Paweł](http://pponiewaz.github.io). [Notacje](https://github.com/pponiewaz/TI).
-1. [Portalski, Sylwester](http://sportalski.github.io). [Notacje](http://github.com/sportalski/techniki-lab).
-1. [Ruchlewicz, Natalia](http://nruchlewicz.github.io/). [Notacje](https://github.com/nruchlewicz/Techniki-lab).
+1. [Eggert, Marek](http://marek4f.github.io/). [Notacje](https://github.com/Marek4f/techniki), [TV](http://marek4f.github.io/tv.html). P, MA
+1. [Jakubek, Daniel](http://kassszub.github.io/). [Notacje](https://github.com/kassszub/ti-md-ascii-web). L, P, MA
+1. [Kowalska Joanna](http://jkowalska.github.io). [Notacje](https://github.com/jkowalska/LabTI). P
+1. [Krajnik, Martyna](http://mkrajnik.github.io/). [Repozytorium](https://github.com/mkrajnik/Techniki-Internetowe). L, P, MA
+1. [Krzychowiec Rafał](http://stringhead.github.io/index.html). [Notacje](https://github.com/StringHead/Techniki-internetowe/blob/master/README.md). P, L, MA
+1. [Kupniewski, Rafał](http://rkupniewski.github.io/). Notacje. P, MA
+1. [Ponieważ Paweł](http://pponiewaz.github.io). [Notacje](https://github.com/pponiewaz/TI). L, P, MA
+1. [Portalski, Sylwester](http://sportalski.github.io). [Notacje](http://github.com/sportalski/techniki-lab). P, MA
+1. [Ruchlewicz, Natalia](http://nruchlewicz.github.io/). [Notacje](https://github.com/nruchlewicz/Techniki-lab). P, MA
 1. [Samsoniuk, Damian](http://dsamsoniuk.github.io). [Notacje](github.com/dsamsoniuk/laboratoria).
 1. [Tomasik Przemysław](http://ptomasik1.github.io/). [Notacje](https://github.com/ptomasik1/Zaliczenie-TI-2015).
 
