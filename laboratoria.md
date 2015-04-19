@@ -13,7 +13,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 
 1. [Eggert, Marek](http://marek4f.github.io/). [Notacje](https://github.com/Marek4f/techniki), [TV](http://marek4f.github.io/tv.html). P, MA
 1. [Jakubek, Daniel](http://kassszub.github.io/). [Notacje](https://github.com/kassszub/ti-md-ascii-web). L, P, MA
-1. [Kowalska Joanna](http://jkowalska.github.io). [Notacje](https://github.com/jkowalska/LabTI). P
+1. [Kowalska Joanna](http://jkowalska.github.io). [Notacje](https://github.com/jkowalska/LabTI).
 1. [Krajnik, Martyna](http://mkrajnik.github.io/). [Repozytorium](https://github.com/mkrajnik/Techniki-Internetowe). L, P, MA
 1. [Krzychowiec Rafał](http://stringhead.github.io/index.html). [Notacje](https://github.com/StringHead/Techniki-internetowe/blob/master/README.md). P, L, MA
 1. [Kupniewski, Rafał](http://rkupniewski.github.io/). Notacje. P, MA
