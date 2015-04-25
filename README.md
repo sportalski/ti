@@ -73,7 +73,8 @@ Użyteczne linki:
 
 - [Materialize](http://materializecss.com) –
   a modern responsive front-end framework based on
-  [material design](http://www.google.com/design/spec/material-design/introduction.html)
+  [material design](http://www.google.com/design/spec/material-design/introduction.html);
+  zob. też [Make Material Design Websites with the Materialize CSS Framework](https://scotch.io/tutorials/make-material-design-websites-with-the-materialize-css-framework)
 - Marijn Haverbeke.
   [Eloquent JavaScript – A Modern Introduction to Programming](http://eloquentjavascript.net/)
 - [Meteor](https://www.meteor.com/)
