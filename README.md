@@ -71,6 +71,9 @@ $ meteor create --list
 
 Użyteczne linki:
 
+- [Materialize](http://materializecss.com) –
+  a modern responsive front-end framework based on
+  [material design](http://www.google.com/design/spec/material-design/introduction.html)
 - Marijn Haverbeke.
   [Eloquent JavaScript – A Modern Introduction to Programming](http://eloquentjavascript.net/)
 - [Meteor](https://www.meteor.com/)
