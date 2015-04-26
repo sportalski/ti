@@ -27,7 +27,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 
 1. Blum, Bartosz
 1. Brzozowski, Patryk
-1. Chylicki, Adrian
+1. [Adrian Chylicki](http://aadrianch.github.io/). [Notacje](https://github.com/aadrianch/TI).
 1. Lipiński, Michał
 1. Mrotek, Remigiusz
 1. Piątek, Mariusz
