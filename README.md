@@ -35,12 +35,16 @@ Korzystając z jednej z tych notacji przygotować:
 W których z tych notacji można wpisywać wzory w notacji LaTeX? (zob. na przykład
 [Math in reStructuredText with LaTeX](http://stackoverflow.com/questions/3610551/math-in-restructuredtext-with-latex)).
 
-2\. [GitHub Pages](https://pages.github.com).
-Przygotować responsywne *user* lub *project site* korzystające
-z jednego z frameworków:
+2\. Przygotować własną stronę lub blog
+(użyć [Jekyll](), [HubPress]() lub innego
+[generatora stron statycznych](https://staticsitegenerators.net/)):
 
+* [Materialize](http://materializecss.com/)
 * [Foundation](http://foundation.zurb.com)
 * [Bootstrap](http://getbootstrap.com)
+
+Stronę umieścić na [GitHub Pages](https://pages.github.com) lub
+[Divshot Static Web Hosting](https://divshot.com/).
 
 Na stronach wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/)
 oraz użyć kilku *web components* z biblioteki [Polymer](https://www.polymer-project.org).
