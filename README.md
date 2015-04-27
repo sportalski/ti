@@ -37,11 +37,17 @@ W których z tych notacji można wpisywać wzory w notacji LaTeX? (zob. na przyk
 
 2\. Przygotować własną stronę lub blog
 (użyć [Jekyll](), [HubPress]() lub innego
-[generatora stron statycznych](https://staticsitegenerators.net/)):
+[generatora stron statycznych](https://staticsitegenerators.net/)).
 
-* [Materialize](http://materializecss.com/)
-* [Foundation](http://foundation.zurb.com)
-* [Bootstrap](http://getbootstrap.com)
+Szablon strony powinen korzystać z jednego z poniższych frameworków:
+
+* [Materialize](http://materializecss.com/) –
+  a modern responsive front-end framework based on Material Design
+* [Foundation](http://foundation.zurb.com) –
+  the most advanced responsive front-end framework in the world
+* [Bootstrap](http://getbootstrap.com) –
+  the most popular HTML, CSS, and JS framework for developing
+  responsive, mobile first projects on the web
 
 Stronę umieścić na [GitHub Pages](https://pages.github.com) lub
 [Divshot Static Web Hosting](https://divshot.com/).
