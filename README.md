@@ -42,7 +42,8 @@ W których z tych notacji można wpisywać wzory w notacji LaTeX? (zob. na przyk
 Szablon strony powinen korzystać z jednego z poniższych frameworków:
 
 * [Materialize](http://materializecss.com/) –
-  a modern responsive front-end framework based on Material Design
+  a modern responsive front-end framework based on
+  [Material Design](http://www.google.com/design/)
 * [Foundation](http://foundation.zurb.com) –
   the most advanced responsive front-end framework in the world
 * [Bootstrap](http://getbootstrap.com) –
