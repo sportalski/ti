@@ -23,17 +23,14 @@ W repozytoriach nie powinno być śmieci, np. plików backup edytora.
 
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) –
   Github-flavored
-* [reStructuredText Primer](http://sphinx-doc.org/rest.html)
-* [AsciiDoc](http://www.methods.co.nz/asciidoc/); zob. też
-  [Pro Git Book, ed. 2](https://github.com/progit/progit2)
+* [AsciiDoctor](http://asciidoctor.org/) – a fast text processor & publishing
+  toolchain for converting AsciiDoc to HTML5, DocBook & more
+* [Pro Git Book, ed. 2](https://github.com/progit/progit2)
 
 Korzystając z jednej z tych notacji przygotować:
 
 * tabelkę porównującą te notacje; przepisać tę tabelkę w *czystym* HTML5
 * przygotować tabelkę z programem MŚ w Falun 2015 lub programu TV z jednego dnia
-
-W których z tych notacji można wpisywać wzory w notacji LaTeX? (zob. na przykład
-[Math in reStructuredText with LaTeX](http://stackoverflow.com/questions/3610551/math-in-restructuredtext-with-latex)).
 
 2\. [GitHub Pages](https://pages.github.com).
 Przygotować responsywne *user* lub *project site* korzystające
