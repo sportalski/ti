@@ -33,16 +33,24 @@ Korzystając z jednej z tych notacji przygotować:
 * przygotować tabelkę z programem MŚ w Falun 2015 lub programu TV z jednego dnia
 
 2\. [GitHub Pages](https://pages.github.com).
-Przygotować responsywne *user* lub *project site* korzystające
-z jednego z frameworków:
 
-* [Foundation](http://foundation.zurb.com)
-* [Bootstrap](http://getbootstrap.com)
+Przygotować *user* lub *project site*,
+korzystając z jednego z frameworków wymienionych poniżej:
+
+* [Materialize](http://materializecss.com/) –
+  a modern responsive front-end framework based on
+  [Material Design](http://www.google.com/design/)
+* [Foundation](http://foundation.zurb.com) –
+  the most advanced responsive front-end framework in the world
+* [Bootstrap](http://getbootstrap.com) –
+  the most popular HTML, CSS, and JS framework for developing
+  responsive, mobile first projects on the web
+
+Stronę umieścić na [GitHub Pages](https://pages.github.com) lub
+[Divshot Static Web Hosting](https://divshot.com/).
 
 Na stronach wstawić mapkę korzystającą [Leaflet](http://leafletjs.com/)
 oraz użyć kilku *web components* z biblioteki [Polymer](https://www.polymer-project.org).
-
-----
 
 Pull requests z linkami do projektów na zaliczenie i egzamin należy wpisać
 w pliku [laboratoria.md](laboratoria.md).
@@ -110,6 +118,8 @@ ES6+
   and evolve Web Component best-practices
 - Dominic Cooney.
   [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+- [Polymer](https://www.polymer-project.org):
+  - [Polymer v0.8](https://www.polymer-project.org/0.8/)
 
 
 ### CSS
