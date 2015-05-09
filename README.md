@@ -71,8 +71,6 @@ $ meteor create --list
 
 Użyteczne linki:
 
-- Marijn Haverbeke.
-  [Eloquent JavaScript – A Modern Introduction to Programming](http://eloquentjavascript.net/)
 - [Meteor](https://www.meteor.com/)
 - David Turnbull.
   [Your First Meteor Application](http://meteortips.com/book/) –
@@ -81,25 +79,49 @@ Użyteczne linki:
   ([polskie tłumaczenie](http://pl.discovermeteor.com/))
 
 
-### 2015 → ∞
+## 2015 → ∞
+
+### JavaScript
 
 [JavaScript in 2015](http://glenmaddern.com/articles/javascript-in-2015)
-([YouTube](https://www.youtube.com/watch?v=iukBMY4apvI)):
+([YouTube](https://www.youtube.com/watch?v=iukBMY4apvI)).
 
+- Marijn Haverbeke.
+  [Eloquent JavaScript](http://eloquentjavascript.net/) –
+- Kyle Simpson.
+  [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) – book series
 - Nicholas C. Zakas.
   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
-- [ES.next showcase](https://github.com/sindresorhus/esnext-showcase)
-  - [JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
-- [Web Components](http://w3c.github.io/webcomponents/explainer/):
-  * Addy Osmani.
-  [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
+- John Resig.
+  [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+- [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) –
+  Mozilla Developer Network (MDN)
 
-CSS in 2015:
+ES6+
+
+- Sindre Sorhus.
+  [ES.next showcase](https://github.com/sindresorhus/esnext-showcase)
+- Matt Greer.
+  [JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
+- Aidan Feldman.
+  [Advanced JavaScript](http://advanced-js.github.io/deck/)
+
+
+### WebComponents
+
+- [WebComponents.org](http://webcomponents.org/) – a place to discuss
+  and evolve Web Component best-practices
+- Dominic Cooney.
+  [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+
+
+### CSS
 
 - [Less](http://lesscss.org)
 - [Sass](http://sass-lang.com)
 
-Reszta:
+
+### Git + Docker
 
 - [Pro Git Book](http://git-scm.com/book/en/v2)
 - [Docker](http://www.docker.com/) –  Build, Ship and Run Any App, Anywhere
