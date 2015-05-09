@@ -22,13 +22,13 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Ruchlewicz, Natalia](http://nruchlewicz.github.io/). [Notacje](https://github.com/nruchlewicz/Techniki-lab). P, MA
 1. [Samsoniuk, Damian](http://dsamsoniuk.github.io). [Notacje](github.com/dsamsoniuk/laboratoria). P
 1. [Tomasik Przemysław](http://ptomasik1.github.io/). [Notacje](https://github.com/ptomasik1/Zaliczenie-TI-2015). P
-1. [Lipiński Michał](http://mlipinski2.github.io/). [Repozytorium](https://github.com/mlipinski2/TI). L, P, MA
 
 ----
 
 1. Blum, Bartosz
 1. Brzozowski, Patryk
 1. [Adrian Chylicki](http://aadrianch.github.io/). [Notacje](https://github.com/aadrianch/TI).
+1. [Lipiński Michał](http://mlipinski2.github.io/). [Repozytorium](https://github.com/mlipinski2/TI). L, P, MA
 1. Mrotek, Remigiusz
 1. Piątek, Mariusz
 1. Skowroński, Mateusz
