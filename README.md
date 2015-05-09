@@ -25,7 +25,6 @@ W repozytoriach nie powinno być śmieci, np. plików backup edytora.
   Github-flavored
 * [AsciiDoctor](http://asciidoctor.org/) – a fast text processor & publishing
   toolchain for converting AsciiDoc to HTML5, DocBook & more
-* [Pro Git Book, ed. 2](https://github.com/progit/progit2)
 
 Korzystając z jednej z tych notacji przygotować:
 
