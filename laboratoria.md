@@ -43,5 +43,6 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Nazwa zespołu](link do PRYWATNEGO repo z kodem). [Nazwa aplikacji](link do aplikacji na Heroku).
 ```
 
-1. [Hinz Karol](https://github.com/khinz/przedmioty_UG). [Dziennik internetowy](http://dziennik_internetowy.meteor.com)
-2. [Martyna Krajnik](https://github.com/mkrajnik/Techniki-Internetowe/tree/master/techniki2) [Forum](mkrajnik.meteor.com)
+1. [Hinz Karol](https://github.com/khinz/przedmioty_UG). [Dziennik internetowy](http://dziennik_internetowy.meteor.com).
+1. [Martyna Krajnik](https://github.com/mkrajnik/Techniki-Internetowe/tree/master/techniki2). [Forum](mkrajnik.meteor.com).
+1. [Joanna Kowalska, Natalia Ruchlewicz](https://bitbucket.org/projekt_inf/meteor-chat). [Meteor Chat](http://meteor-chat.meteor.com).
