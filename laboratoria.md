@@ -44,3 +44,4 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 ```
 
 1. [Hinz Karol](https://github.com/khinz/przedmioty_UG). [Dziennik internetowy](http://dziennik_internetowy.meteor.com)
+2. [Martyna Krajnik](https://github.com/mkrajnik/Techniki-Internetowe/tree/master/techniki2) [Forum](mkrajnik.meteor.com)
