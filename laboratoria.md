@@ -46,3 +46,4 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Hinz Karol](https://github.com/khinz/przedmioty_UG). [Dziennik internetowy](http://dziennik_internetowy.meteor.com).
 1. [Martyna Krajnik](https://github.com/mkrajnik/Techniki-Internetowe/tree/master/techniki2). [Forum](http://mkrajnik.meteor.com).
 1. [Joanna Kowalska, Natalia Ruchlewicz](https://bitbucket.org/projekt_inf/meteor-chat). [Meteor Chat](http://meteor-chat.meteor.com).
+1. [Przemyslaw Tomasik](https://github.com/ptomasik1/Glosuj). [Sonda internetowa](http://ptomasik.meteor.com/).
