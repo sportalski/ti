@@ -26,7 +26,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 ----
 
 1. [Blum, Bartosz](http://BlumBartosz.github.io). [Notacja ](https://github.com/BlumBartosz/TI).
-1. Brzozowski, Patryk
+1. [Brzozowski, Patryk](http://pbrzozowski.github.io/). [Notacje](https://github.com/pbrzozowski/lab06).
 1. [Adrian Chylicki](http://aadrianch.github.io/). [Notacje](https://github.com/aadrianch/TI).
 1. [Lipiński Michał](http://mlipinski2.github.io/). [Repozytorium](https://github.com/mlipinski2/TI). L, P, MA
 1. Mrotek, Remigiusz
